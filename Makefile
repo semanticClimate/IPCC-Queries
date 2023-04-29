@@ -7,7 +7,7 @@ METAS := references.dat toc.txt indexList.i.md sections.txt
 
 SUBDIRS := sparql
 
-all: ${SUBDIRS} ${METAS} ${TARGETS} docs/index.md
+all: ${SUBDIRS} ${METAS} ${TARGETS} docs/index.md docs/indexList.md
 	@cp sparql/*.code.en.md docs/sparql
 	@rename -f "s/\.en.md/\.md/" docs/sparql/*.en.md
 	@for lang in $(L10N) ; do \
@@ -31,6 +31,9 @@ toc.txt: makeToC.groovy order.txt ${SOURCES}
 	done
 	@echo ""
 	@touch toc.txt
+
+docs/indexList.md: indexList.en.md
+	@cp indexList.en.md docs/indexList.md
 
 indexList.i.md: topics.tsv makeIndex.groovy
 	@echo -n "Making the index ... "
