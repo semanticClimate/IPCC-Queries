@@ -19,6 +19,7 @@ under the [CCZero license/waiver](https://creativecommons.org/share-your-work/pu
 3. [Statement Annotations](statements.md) <br />
 3.1. [Regional annotation](statements.md#regional-annotation) <br />
 3.1.1. [Putting statements on the map](statements.md#putting-statements-on-the-map) <br />
+3.2. [Ecosystems](statements.md#ecosystems) <br />
 
 [Index](indexList.md) <br />
 

@@ -30,6 +30,15 @@ For now, this is what the results look like as table:
 
 <out>statementOnMap</out>
 
+## Ecosystems
+
+Similarly, we can list all ecosystems and the number of statements about them:
+
+<sparql>ecosystems</sparql>
+
+With gives:
+
+<out>ecosystems</out>
 
 ## References
 
