@@ -78,8 +78,11 @@ SELECT ?paragraph ?paragraphLabel ?confidenceLabel ?text ?coordinates WHERE {
 ## Code examples
 ### curl
 ```shell
-curl -s https://raw.githubusercontent.com/egonw/IPCC-Queries/master/sparql/statementOnMap.rq | sed 's+<lang/>+en+' > statementOnMap.rq
+curl -s https://raw.githubusercontent.com/egonw/IPCC-Queries/master/sparql/statementOnMap.rq \
+  | sed 's+<lang/>+en+' > statementOnMap.rq
 
-curl -H "Accept: text/tab-separated-values" -G https://https://kg-ipclimatec-reports.wikibase.cloud/bigdata/namespace/wdq/sparql --data-urlencode query@statementOnMap.rq
+curl -H "Accept: text/tab-separated-values" \
+  -G https://kg-ipclimatec-reports.wikibase.cloud/query/sparql \
+  --data-urlencode query@statementOnMap.rq
 ```
 This SPARQL query is available under CCZero.
