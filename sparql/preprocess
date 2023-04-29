@@ -1,0 +1,91 @@
+// Copyright (c) 2019-2022  Egon Willighagen <egon.willighagen@gmail.com>
+//
+// GPL v3
+
+@Grab(group='io.github.egonw.bacting', module='managers-rdf', version='0.1.2')
+@Grab(group='io.github.egonw.bacting', module='managers-ui', version='0.1.2')
+
+bioclipse = new net.bioclipse.managers.BioclipseManager(".");
+rdf = new net.bioclipse.managers.RDFManager(".");
+
+inFile = args[0];
+lang = args[1];
+
+urlList = new File("../urlList.txt")
+
+sparql = new File(inFile).text
+if (sparql.contains("<lang/>"))
+  sparql = sparql.replace("<lang/>", lang)
+
+formatterURLs = new HashMap<String,String>()
+formatterURLs.put("ncbi", "https://www.ncbi.nlm.nih.gov/taxonomy/#{1}")
+formatterURLs.put("ncbigene", "https://www.ncbi.nlm.nih.gov/gene/#{1}")
+formatterURLs.put("pdb", "https://www.rcsb.org/structure/#{1}")
+formatterURLs.put("uniprot", "https://www.uniprot.org/uniprot/#{1}")
+formatterURLs.put("doi", "https://doi.org/#{1}")
+formatterURLs.put("cpx", "https://www.ebi.ac.uk/complexportal/complex/#{1}")
+formatterURLs.put("guideToPharma", "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=#{1}")
+
+if (bioclipse.isOnline()) {
+  resultsData = bioclipse.sparqlRemote(
+    "https://query.wikidata.org/bigdata/namespace/wdq/sparql", sparql
+  )
+  results = rdf.processSPARQLXML(resultsData, sparql)
+}
+
+// make output
+colNames = results.columnNames
+colCount = colNames.size()
+
+columnLabels = new ArrayList<String>()
+labelCols = new HashMap<String,String>()
+for (String name : colNames) {
+  if (name.endsWith("Label")) {
+    label = name.substring(0,name.indexOf("Label"))
+    if (columnLabels.contains(label)) {
+      labelCols.put(label, name)
+    }
+  } else {
+    columnLabels.add(name)
+  }
+}
+
+println "<table>"
+println "  <tr>"
+for (String label : columnLabels) {
+  println "    <td><b>${label}</b></td>"
+}
+println "  </tr>"
+
+for (i=1;i<=results.rowCount;i++) {
+  println "  <tr>"
+  for (String label : columnLabels) {
+    if (labelCols.containsKey(label)) {
+      // okay, we have a label, use that
+      wikidata = label
+      label = labelCols.get(label)
+      qidURL = results.get(i, wikidata)
+      if (label == null || qidURL == null) {
+        println "    <td></td>"
+      } else {
+        qid = qidURL.substring(31)
+        scholiaURL = "https://scholia.toolforge.org/$qid"
+        println "    <td><a href=\"$scholiaURL\">${results.get(i, label)}</a> (<a href=\"$qidURL\">edit</a>)</td>"
+        if (lang == "en") urlList << "${scholiaURL}\n"
+      }
+    } else {
+      value = results.get(i, label)
+      if (value == null) {
+        value = ""
+      } else if ("date".equals(label)) {
+        value = value.substring(0,10) // only keep the date part
+      } else if (formatterURLs.containsKey(label)) {
+        url = formatterURLs.get(label).replace("#{1}", value)
+        value = "<a href=\"$url\">" + value + "</a>"
+      }
+      println "    <td>$value</td>"
+    }
+  }
+  println "  </tr>"
+}
+println "</table>"

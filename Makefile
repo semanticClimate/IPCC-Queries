@@ -1,0 +1,62 @@
+L10N :=
+LANGS ?= en ${L10N}
+
+SOURCES := $(shell find src -name "*.md")
+TARGETS := $(shell find src -name "*.md" | sed -e 's/src/docs/' )
+METAS := references.dat toc.txt indexList.i.md sections.txt
+
+SUBDIRS := sparql
+
+all: ${SUBDIRS} ${METAS} ${TARGETS} docs/index.md
+	@cp sparql/*.code.en.md docs/sparql
+	@rename -f "s/\.en.md/\.md/" docs/sparql/*.en.md
+	@for lang in $(L10N) ; do \
+		echo "Moving files for $$lang..." ; \
+		cp sparql/*.code.$$lang.md docs/$$lang/sparql ; \
+		rename -f "s/\.$$lang\.md/\.md/" docs/$$lang/sparql/*.$$lang.md ; \
+	done
+
+docs/urlList.txt: urlList.txt
+	@sort urlList.txt | uniq > docs/urlList.txt
+
+sections.txt: order.txt ${SOURCES}
+	@echo "Indexing the sections"
+	@groovy findSections.groovy > sections.txt
+
+toc.txt: makeToC.groovy order.txt ${SOURCES}
+	@echo -n "Making the ToC ... "
+	@for lang in $(LANGS) ; do \
+		echo -n "$$lang " ; \
+		groovy makeToC.groovy $$lang > toc.$$lang.txt ; \
+	done
+	@echo ""
+	@touch toc.txt
+
+indexList.i.md: topics.tsv makeIndex.groovy
+	@echo -n "Making the index ... "
+	@for lang in $(LANGS) ; do \
+		echo -n "$$lang " ; \
+		groovy makeIndex.groovy $$lang > indexList.$$lang.md ; \
+	done
+	@echo ""
+	@touch indexList.i.md
+
+topics.tsv: ${SOURCES} findTopics.groovy
+	@echo -n "Extracting the topics ... "
+	@for lang in $(LANGS) ; do \
+		echo -n "$$lang " ; \
+		groovy findTopics.groovy src $$lang | sort > topics.$$lang.tsv ; \
+	done
+	@echo ""
+	@touch topics.tsv
+
+references.qids: findCitations.groovy
+	@echo "Finding the citations"
+	@groovy findCitations.groovy src | grep "^Q" | sort | uniq > references.qids
+
+references.dat: references.qids references.js
+	@nodejs references.js
+
+docs/%.md : src/%.md createMarkdown.groovy sparql/*.out
+	@echo "Creating $@ ... "
+	@groovy createMarkdown.groovy $< > $@
