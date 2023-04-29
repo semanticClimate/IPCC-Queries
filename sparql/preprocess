@@ -1,9 +1,9 @@
-// Copyright (c) 2019-2022  Egon Willighagen <egon.willighagen@gmail.com>
+// Copyright (c) 2019-2023  Egon Willighagen <egon.willighagen@gmail.com>
 //
 // GPL v3
 
-@Grab(group='io.github.egonw.bacting', module='managers-rdf', version='0.1.2')
-@Grab(group='io.github.egonw.bacting', module='managers-ui', version='0.1.2')
+@Grab(group='io.github.egonw.bacting', module='managers-rdf', version='0.3.1')
+@Grab(group='io.github.egonw.bacting', module='managers-ui', version='0.3.1')
 
 bioclipse = new net.bioclipse.managers.BioclipseManager(".");
 rdf = new net.bioclipse.managers.RDFManager(".");
@@ -28,7 +28,7 @@ formatterURLs.put("guideToPharma", "https://www.guidetopharmacology.org/GRAC/Obj
 
 if (bioclipse.isOnline()) {
   resultsData = bioclipse.sparqlRemote(
-    "https://query.wikidata.org/bigdata/namespace/wdq/sparql", sparql
+    "https://kg-ipclimatec-reports.wikibase.cloud/bigdata/namespace/wdq/sparql", sparql
   )
   results = rdf.processSPARQLXML(resultsData, sparql)
 }
