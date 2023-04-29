@@ -1,0 +1,9 @@
+PREFIX wdt: <https://kg-ipclimatec-reports.wikibase.cloud/prop/direct/>
+PREFIX wd:  <https://kg-ipclimatec-reports.wikibase.cloud/entity/>
+
+SELECT DISTINCT ?section ?sectionLabel (COUNT(?statement) AS ?count) WHERE {
+  ?section wdt:P1 wd:Q18 ;
+           wdt:P3 ?statement .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+} GROUP BY ?section ?sectionLabel
+  ORDER BY DESC(?count)

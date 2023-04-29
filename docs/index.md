@@ -13,6 +13,8 @@ under the [CCZero license/waiver](https://creativecommons.org/share-your-work/pu
 
 1. [Introduction](intro.md) <br />
 1.1. [Putting statements on the map](intro.md#putting-statements-on-the-map) <br />
+2. [Sections, Paragraphs and Statements](statements.md) <br />
+2.1. [Sections](statements.md#sections) <br />
 
 [Index](indexList.md) <br />
 

@@ -1,0 +1,7 @@
+PREFIX wdt: <https://kg-ipclimatec-reports.wikibase.cloud/prop/direct/>
+PREFIX wd:  <https://kg-ipclimatec-reports.wikibase.cloud/entity/>
+
+SELECT ?section ?sectionLabel WHERE {
+  ?section wdt:P1 wd:Q18 .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
