@@ -21,6 +21,16 @@ Which gives:
 
 <out>sectionsWithStatements</out>
 
+## Paragraphs
+
+For each section we can list the paragraphs and their confidence levels,
+for example for paragraph <i>paragraph 2.1.2.d</i> ([Q49](https://kg-ipclimatec-reports.wikibase.cloud/wiki/Item:Q49)):
+
+<sparql>statementsWithConfidence</sparql>
+
+Which gives for this paragraph:
+
+<out>statementsWithConfidence</out>
 
 ## References
 

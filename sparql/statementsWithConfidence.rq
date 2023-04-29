@@ -1,0 +1,15 @@
+PREFIX wdt: <https://kg-ipclimatec-reports.wikibase.cloud/prop/direct/>
+PREFIX wd:  <https://kg-ipclimatec-reports.wikibase.cloud/entity/>
+PREFIX p:   <https://kg-ipclimatec-reports.wikibase.cloud/prop/>
+PREFIX pq:  <https://kg-ipclimatec-reports.wikibase.cloud/prop/qualifier/>
+PREFIX ps:  <https://kg-ipclimatec-reports.wikibase.cloud/prop/statement/>
+
+SELECT DISTINCT ?statement ?statementLabel (GROUP_CONCAT(?value_string; separator=", ") as ?confidences) WHERE {
+  VALUES ?section { wd:Q49 }
+  ?section p:P3 ?statementStatement .
+  BIND (?section AS ?statement)
+  ?statementStatement ps:P3 ?statementLabel .
+  ?statementStatement pq:P5 ?confidence .
+  ?confidence rdfs:label ?value_string . 
+  FILTER (LANG(?value_string) = 'en')
+} GROUP BY ?statement ?statementLabel
