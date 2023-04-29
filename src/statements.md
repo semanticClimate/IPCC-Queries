@@ -1,36 +1,35 @@
-# Sections, Paragraphs and Statements
+# Statement Annotations
 
-The <topic>AR6 Syntheses Report</topic> consists of many sections, each of which has one or more
-<topic>paragraphs</topic>. Each paragraph, in turn, contains one or more <topic>statements</topic>.
+Statements are annotated with their confidence level, but more interesting is their annotation
+with other topics. This section shows how statements can be annotated.
 
-## Sections
+## Regional annotation
 
-We can list all the sections in the book:
+Statements can be annotated with the region they are about. We can the list all such regions
+and the number of statements about that region:
 
-<sparql>allSections</sparql>
+<sparql>regions</sparql>
 
-Which gives:
+With gives:
 
-<out limit="5">allSections</out>
+<out>regions</out>
 
-Instead, we can also focus on paragraphs (also typed as section):
+### Putting statements on the map
 
-<sparql>sectionsWithStatements</sparql>
+With the following SPARQL query we can show statements on the world map,
+taking advantage of Wikidata [<cite>Q27042516</cite>] to provide geographical coordinates for regions,
+using a <topic>federated SPARQL query</topic>:
 
-Which gives:
+<sparql>statementOnMap</sparql>
 
-<out>sectionsWithStatements</out>
+This should show something like this (pending a solution for a `'X-Frame-Options' to 'sameorigin'` problem:
 
-## Paragraphs
+<iframe>statementOnMap</iframe>
 
-For each section we can list the paragraphs and their confidence levels,
-for example for paragraph <i>paragraph 2.1.2.d</i> ([Q49](https://kg-ipclimatec-reports.wikibase.cloud/wiki/Item:Q49)):
+For now, this is what the results look like as table:
 
-<sparql>statementsWithConfidence</sparql>
+<out>statementOnMap</out>
 
-Which gives for this paragraph:
-
-<out>statementsWithConfidence</out>
 
 ## References
 

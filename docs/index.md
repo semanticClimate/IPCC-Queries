@@ -13,10 +13,12 @@ under the [CCZero license/waiver](https://creativecommons.org/share-your-work/pu
 
 1. [Introduction](intro.md) <br />
 1.1. [Confidence levels](intro.md#confidence-levels) <br />
-1.2. [Putting statements on the map](intro.md#putting-statements-on-the-map) <br />
-2. [Sections, Paragraphs and Statements](statements.md) <br />
-2.1. [Sections](statements.md#sections) <br />
-2.2. [Paragraphs](statements.md#paragraphs) <br />
+2. [Sections, Paragraphs and Statements](sections.md) <br />
+2.1. [Sections](sections.md#sections) <br />
+2.2. [Paragraphs](sections.md#paragraphs) <br />
+3. [Statement Annotations](statements.md) <br />
+3.1. [Regional annotation](statements.md#regional-annotation) <br />
+3.1.1. [Putting statements on the map](statements.md#putting-statements-on-the-map) <br />
 
 [Index](indexList.md) <br />
 
