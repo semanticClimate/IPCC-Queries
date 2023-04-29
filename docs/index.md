@@ -12,7 +12,8 @@ under the [CCZero license/waiver](https://creativecommons.org/share-your-work/pu
 ## Contents
 
 1. [Introduction](intro.md) <br />
-1.1. [Putting statements on the map](intro.md#putting-statements-on-the-map) <br />
+1.1. [Confidence levels](intro.md#confidence-levels) <br />
+1.2. [Putting statements on the map](intro.md#putting-statements-on-the-map) <br />
 2. [Sections, Paragraphs and Statements](statements.md) <br />
 2.1. [Sections](statements.md#sections) <br />
 2.2. [Paragraphs](statements.md#paragraphs) <br />
