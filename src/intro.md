@@ -11,9 +11,13 @@ mention regions and have been annotated accordingly, of course:
 
 <sparql>statementOnMap</sparql>
 
-This should show something like this (pending a solution for a `'X-Frame-Options' to 'sameorigin'` problem.
+This should show something like this (pending a solution for a `'X-Frame-Options' to 'sameorigin'` problem:
 
 <iframe>statementOnMap</iframe>
+
+For now, this is what the results look like as table:
+
+<out>statementOnMap</out>
 
 ## References
 

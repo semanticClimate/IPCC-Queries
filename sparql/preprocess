@@ -28,7 +28,7 @@ formatterURLs.put("guideToPharma", "https://www.guidetopharmacology.org/GRAC/Obj
 
 if (bioclipse.isOnline()) {
   resultsData = bioclipse.sparqlRemote(
-    "https://kg-ipclimatec-reports.wikibase.cloud/bigdata/namespace/wdq/sparql", sparql
+    "https://kg-ipclimatec-reports.wikibase.cloud/query/sparql", sparql
   )
   results = rdf.processSPARQLXML(resultsData, sparql)
 }
