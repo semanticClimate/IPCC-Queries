@@ -3,7 +3,7 @@
 # Sections, Paragraphs and Statements
 
 The <a name="tp1">AR6 Syntheses Report</a> consists of many sections, each of which has one or more
-<a name="tp2">paragraphs</a>. Each paragraph, in turn, contains one or more <a name="tp3">statements</a>.
+<a name="tp2">paragraphs</a> [<a href="#citeref1">1</a>]. Each paragraph, in turn, contains one or more <a name="tp3">statements</a>.
 
 ## Sections
 
@@ -133,4 +133,5 @@ Which gives for this paragraph:
 
 ## References
 
+1. <a name="citeref1"></a>AR6 Synthesis Report: Climate Change 2023 [Internet]. Sixth Assessment Report. Geneva, Confoederatio Helvetica: Intergovernmental Panel on Climate Change; Available from: https://www.ipcc.ch/report/ar6/syr/
 

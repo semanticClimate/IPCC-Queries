@@ -36,9 +36,19 @@ Similarly, we can list all ecosystems and the number of statements about them:
 
 <sparql>ecosystems</sparql>
 
-With gives:
+Which gives:
 
 <out>ecosystems</out>
+
+## Impact
+
+Many statements mention the impact they have. Statements can be annotated with the impact.
+
+<sparql>impacts</sparql>
+
+This gives:
+
+<out>impacts</out>
 
 ## References
 

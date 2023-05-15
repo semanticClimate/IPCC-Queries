@@ -1,0 +1,12 @@
+PREFIX wdt: <https://kg-ipclimatec-reports.wikibase.cloud/prop/direct/>
+PREFIX wd:  <https://kg-ipclimatec-reports.wikibase.cloud/entity/>
+PREFIX p:   <https://kg-ipclimatec-reports.wikibase.cloud/prop/>
+PREFIX pq:  <https://kg-ipclimatec-reports.wikibase.cloud/prop/qualifier/>
+
+SELECT ?impact ?impactLabel (COUNT(DISTINCT ?statement) AS ?count) WHERE {
+  ?paragraph p:P3 ?statement .
+  ?statement pq:P10 ?impact .
+  ?impact wdt:P1 wd:Q41 .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+} GROUP BY ?impact ?impactLabel
+  ORDER BY DESC(?count)

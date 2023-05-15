@@ -54,7 +54,8 @@ This knowledge graph has a number of types used to semantically model the data.
 
 The AR6 Synthesis report is organized as a collections of [sections](https://kg-ipclimatec-reports.wikibase.cloud/wiki/Item:Q18) that consist of one or
 more paragraphs, where each paragraphs cites other parts of the IPCC reports. Each
-paragraph consists of statements, each with a confidence level (see above).
+paragraph consists of statements, each with a confidence level (see above). This is explained more
+in the [next section](section.md).
 
 This model is captured in the shape expression [E1](https://kg-ipclimatec-reports.wikibase.cloud/wiki/EntitySchema:E1) (see [<a href="#citeref3">3</a>]):
 

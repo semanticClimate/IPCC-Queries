@@ -13,6 +13,10 @@ under the [CCZero license/waiver](https://creativecommons.org/share-your-work/pu
 
 1. [Introduction](intro.md) <br />
 1.1. [Confidence levels](intro.md#confidence-levels) <br />
+1.2. [Data model](intro.md#data-model) <br />
+1.2.1. [Sections and Statements](intro.md#sections-and-statements) <br />
+1. [SELECT ?section WHERE { ?section wdt:P1 wd:Q18 . }](intro.md) <br />
+1. [Run with: https://shex-simple.toolforge.org/wikidata/packages/shex-webapp/doc/shex-simple.html?data=Endpoint:%20https://kg-ipclimatec-reports.wikibase.cloud/sparql&hideData&manifest=[]&textMapIsSparqlQuery&schemaURL=%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fwiki%2FSpecial%3AEntitySchemaText%2FE1](intro.md) <br />
 2. [Sections, Paragraphs and Statements](sections.md) <br />
 2.1. [Sections](sections.md#sections) <br />
 2.2. [Paragraphs](sections.md#paragraphs) <br />
@@ -20,6 +24,7 @@ under the [CCZero license/waiver](https://creativecommons.org/share-your-work/pu
 3.1. [Regional annotation](statements.md#regional-annotation) <br />
 3.1.1. [Putting statements on the map](statements.md#putting-statements-on-the-map) <br />
 3.2. [Ecosystems](statements.md#ecosystems) <br />
+3.3. [Impact](statements.md#impact) <br />
 
 [Index](indexList.md) <br />
 
