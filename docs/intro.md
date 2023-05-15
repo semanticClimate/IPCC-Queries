@@ -46,8 +46,59 @@ With gives:
   </tr>
 </table>
 
+## Data model
+
+This knowledge graph has a number of types used to semantically model the data.
+
+### Sections and Statements
+
+The AR6 Synthesis report is organized as a collections of [sections](https://kg-ipclimatec-reports.wikibase.cloud/wiki/Item:Q18) that consist of one or
+more paragraphs, where each paragraphs cites other parts of the IPCC reports. Each
+paragraph consists of statements, each with a confidence level (see above).
+
+This model is captured in the shape expression [E1](https://kg-ipclimatec-reports.wikibase.cloud/wiki/EntitySchema:E1) (see [<a href="#citeref3">3</a>]):
+
+```
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+PREFIX p: <http://www.wikidata.org/prop/>
+PREFIX pq: <http://www.wikidata.org/prop/qualifier/>
+PREFIX wd:  <https://kg-ipclimatec-reports.wikibase.cloud/entity/>
+PREFIX wdt: <https://kg-ipclimatec-reports.wikibase.cloud/prop/direct/>
+
+# SELECT ?section WHERE { ?section wdt:P1 wd:Q18 . }
+
+# Run with: https://shex-simple.toolforge.org/wikidata/packages/shex-webapp/doc/shex-simple.html?data=Endpoint:%20https://kg-ipclimatec-reports.wikibase.cloud/sparql&hideData&manifest=[]&textMapIsSparqlQuery&schemaURL=%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fwiki%2FSpecial%3AEntitySchemaText%2FE1
+
+START = @<Section>
+
+<Section> {
+  wdt:P1 [ wd:Q18 ] ; # instance of
+  wdt:P4 . * ; # part of
+  wdt:P11 @<Section> * ; # cites
+  p:P3 @<Statement> * # has the statement
+}
+
+<Statement> {
+  pq:P1 . ? ; # instance of
+  pq:P5 @<Confidence> ? ; # confidence
+  pq:P8 xsd:integer ? ; # series ordinal
+  pq:P9 @<SpacialScope> ? # spacial scope
+}
+
+<Confidence> {
+  wdt:P1 [ wd:Q1 ] # instance of 'confidence'
+}
+
+<SpacialScope> {
+  wdt:P1 [ wd:Q32 ] ; # instance of 'ecosystem'
+  wdt:P2 IRI ? # same as
+}
+```
+
 ## References
 
 1. <a name="citeref1"></a>AR6 Synthesis Report: Climate Change 2023 [Internet]. Sixth Assessment Report. Geneva, Confoederatio Helvetica: Intergovernmental Panel on Climate Change; Available from: https://www.ipcc.ch/report/ar6/syr/
 2. <a name="citeref2"></a>Rojas M, Marengo J, Artaxo P, Marotzke J, Unnikrishnan AS, Narisma G, et al. Sixth Assessment Report [Internet]. Geneva, Confoederatio Helvetica: Intergovernmental Panel on Climate Change; 2021. (IPCC report). Available from: https://www.ipcc.ch/assessment-report/ar6/
+3. <a name="citeref3"></a>Waagmeester A, Willighagen EL, Su AI, Kutmon M, Gayo JEL, Fernández-Álvarez D, et al. A protocol for adding knowledge to Wikidata: aligning resources on human coronaviruses. BMC Biol [Internet]. 2021 Jan 22;19(1):12. Available from: https://bmcbiol.biomedcentral.com/track/pdf/10.1186/s12915-020-00940-y.pdf doi:[10.1186/S12915-020-00940-Y](https://doi.org/10.1186/S12915-020-00940-Y) ([Scholia](https://scholia.toolforge.org/doi/10.1186/S12915-020-00940-Y))
 
