@@ -25,15 +25,23 @@ SELECT ?chemical ?chemicalLabel (COUNT(DISTINCT ?statement) AS ?count) WHERE {
     <td><b>count</b></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q69">methane</a></td>
-    <td>1</td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q70">CO₂</a></td>
+    <td>4</td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q70">CO₂</a></td>
-    <td>1</td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q69">methane</a></td>
+    <td>3</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q282">greenhouse gas</a></td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q289">nitrous oxide</a></td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q283">ozone</a></td>
     <td>1</td>
   </tr>
 </table>

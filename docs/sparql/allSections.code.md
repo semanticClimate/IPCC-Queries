@@ -8,9 +8,9 @@ PREFIX wd:  <https://kg-ipclimatec-reports.wikibase.cloud/entity/>
 SELECT ?section ?sectionLabel WHERE {
   ?section wdt:P1 wd:Q18 .
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
-}
+} ORDER BY ASC(?sectionLabel)
 ```
-[run](https://kg-ipclimatec-reports.wikibase.cloud/query/embed.html#PREFIX%20wdt%3A%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fdirect%2F%3E%0APREFIX%20wd%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fentity%2F%3E%0A%0ASELECT%20%3Fsection%20%3FsectionLabel%20WHERE%20%7B%0A%20%20%3Fsection%20wdt%3AP1%20wd%3AQ18%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0A) or [edit](https://kg-ipclimatec-reports.wikibase.cloud/query/#PREFIX%20wdt%3A%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fdirect%2F%3E%0APREFIX%20wd%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fentity%2F%3E%0A%0ASELECT%20%3Fsection%20%3FsectionLabel%20WHERE%20%7B%0A%20%20%3Fsection%20wdt%3AP1%20wd%3AQ18%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0A)
+[run](https://kg-ipclimatec-reports.wikibase.cloud/query/embed.html#PREFIX%20wdt%3A%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fdirect%2F%3E%0APREFIX%20wd%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fentity%2F%3E%0A%0ASELECT%20%3Fsection%20%3FsectionLabel%20WHERE%20%7B%0A%20%20%3Fsection%20wdt%3AP1%20wd%3AQ18%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3FsectionLabel%29%0A) or [edit](https://kg-ipclimatec-reports.wikibase.cloud/query/#PREFIX%20wdt%3A%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fdirect%2F%3E%0APREFIX%20wd%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fentity%2F%3E%0A%0ASELECT%20%3Fsection%20%3FsectionLabel%20WHERE%20%7B%0A%20%20%3Fsection%20wdt%3AP1%20wd%3AQ18%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3FsectionLabel%29%0A)
 
 
 ### Output
@@ -19,16 +19,595 @@ SELECT ?section ?sectionLabel WHERE {
     <td><b>section</b></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q19">WGII SPM B.1.1</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q67">2.1.1 Observed Warming and its Causes</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q20">WGII SPM B.1.2</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q66">2.1.1.a</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q21">WGII Figure SPM.2.A</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q101">2.1.1.b</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q22">WGII TS.B.1</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q103">2.1.1.g</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q104">2.1.1.h</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q105">2.1.1.i</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q30">2.1.2 Observed Climate System Changes and Impacts to Date</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q106">2.1.2.a</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q31">2.1.2.c</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q107">2.1.2.e</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q108">2.1.2.f</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q109">2.1.2.g</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q110">2.1.2.h</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q111">2.1.2.i</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q112">2.1.2.j</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q113">2.1.2.k</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q114">2.1.2.l</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q73">2.2.1 Global Policy Setting</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q115">2.2.1.a</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q116">2.2.1.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q117">2.2.1.c</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q74">2.2.2 Mitigation Actions to Date</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q118">2.2.2.a</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q119">2.2.2.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q120">2.2.2.c</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q121">2.2.2.d</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q122">2.2.2.f</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q123">2.2.2.g</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q124">2.2.2.h</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q75">2.2.3 Adaptation Actions to Date</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q125">2.2.3.a</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q126">2.2.3.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q127">2.2.3.c</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q128">2.2.3.d</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q129">2.2.3.e</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q130">2.2.3.f</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q131">2.2.3.g</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q132">2.2.3.h</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q76">2.3.1 The Gap Between Mitigation Policies, Pledges and Pathways that LimitWarming to 1.5 or Below 2°C</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q133">2.3.1.a</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q134">2.3.1.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q135">2.3.1.c</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q136">2.3.1.g</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q137">2.3.1.h</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q77">2.3.2 Adaptation Gaps and Barriers</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q139">2.3.2.a</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q141">2.3.2.c</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q142">2.3.2.d</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q143">2.3.2.e</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q78">2.3.3 Lack of Finance as a Barrier to Climate Action</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q144">2.3.3.a</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q145">2.3.3.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q146">2.3.3.c</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q147">2.3.3.d</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q79">3.1.1 Long-term Climate Change</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q148">3.1.1.a</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q149">3.1.1.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q150">3.1.1.c</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q151">3.1.1.e</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q152">3.1.1.f</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q153">3.1.1.g</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q154">3.1.1.h</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q80">3.1.2 Impacts and Related Risks</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q155">3.1.2.a</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q156">3.1.2.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q157">3.1.2.c</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q158">3.1.2.d</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q159">3.1.2.e</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q160">3.1.2.f</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q161">3.1.2.g</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q162">3.1.2.h</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q81">3.1.3 The Likelihood and Risks of Abrupt and Irreversible Change</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q163">3.1.3.a</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q164">3.1.3.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q165">3.1.3.c</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q222">3.2</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q233">3.2.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q234">3.2.c</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q235">3.2.d</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q236">3.2.e</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q237">3.2.f</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q82">3.3.1 Remaining Carbon Budgets</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q166">3.3.1.a</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q167">3.3.1.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q168">3.3.1.c</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q169">3.3.1.d</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q83">3.3.2 Net Zero Emissions: Timing and Implications</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q170">3.3.2.a</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q171">3.3.2.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q84">3.3.3 Sectoral Contributions to Mitigation</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q172">3.3.3.a</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q173">3.3.3.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q174">3.3.3.c</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q175">3.3.3.d</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q85">3.3.4 Overshoot Pathways: Increased Risks and Other Implications</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q176">3.3.4.a</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q177">3.3.4.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q178">3.3.4.c</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q86">3.4.1 Synergies and trade-offs, costs and benefits</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q179">3.4.1.a</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q180">3.4.1.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q181">3.4.1.c</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q182">3.4.1.d</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q183">3.4.1.e</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q184">3.4.1.f</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q185">3.4.1.g</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q186">3.4.1.h</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q87">3.4.2 Advancing Integrated Climate Action for Sustainable Development</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q187">3.4.2.a</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q188">3.4.2.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q189">3.4.2.c</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q190">3.4.2.d</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q223">4.1</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q238">4.1.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q239">4.1.d</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q240">4.1.e</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q224">4.2</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q242">4.2.c</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q243">4.2.d</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q244">4.2.e</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q245">4.2.f</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q247">4.2.i</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q248">4.2.k</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q249">4.3.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q250">4.3.c</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q252">4.3.f</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q253">4.3.g</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q226">4.4</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q254">4.4.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q255">4.4.c</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q256">4.4.d</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q257">4.4.e</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q258">4.4.f</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q259">4.4.g</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q227">4.5</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q88">4.5.1 Energy Systems</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q191">4.5.1.a</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q192">4.5.1.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q89">4.5.2 Industry</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q193">4.5.2.a</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q194">4.5.2.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q90">4.5.3 Cities, Settlements and Infrastructure</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q195">4.5.3.a</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q196">4.5.3.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q197">4.5.3.c</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q198">4.5.3.d</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q199">4.5.3.e</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q91">4.5.4 Land, Ocean, Food, and Water</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q200">4.5.4.a</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q201">4.5.4.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q202">4.5.4.c</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q203">4.5.4.d</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q204">4.5.4.e</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q205">4.5.4.f</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q92">4.5.5 Health and Nutrition</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q207">4.5.5.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q93">4.5.6 Society, Livelihoods, and Economies</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q208">4.5.6.a</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q209">4.5.6.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q211">4.5.6.d</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q260">4.5.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q261">4.5.c</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q262">4.5.d</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q228">4.6</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q263">4.6.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q264">4.6.c</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q265">4.6.d</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q266">4.6.e</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q229">4.7</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q267">4.7.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q268">4.7.c</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q269">4.7.d</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q270">4.7.e</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q271">4.7.f</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q272">4.7.g</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q273">4.7.h</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q274">4.7.i</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q275">4.7.j</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q94">4.8.1 Finance for Mitigation and Adaptation Actions</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q212">4.8.1.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q213">4.8.1.d</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q214">4.8.1.f</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q95">4.8.2 International Cooperation and Coordination</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q216">4.8.2.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q96">4.8.3 Technology Innovation, Adoption, Diffusion and Transfer</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q217">4.8.3.a</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q218">4.8.3.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q219">4.8.3.c</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q220">4.8.3.e</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q221">4.9</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q230">4.9.b</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q231">4.9.c</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q232">4.9.d</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q26">SRCCL Figure SPM.1</a></td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q23">SRCCL SPM A.1.5</a></td>
@@ -40,7 +619,16 @@ SELECT ?section ?sectionLabel WHERE {
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q25">SRCCL SPM A.2.6</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q26">SRCCL Figure SPM.1</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q57">SRCCL SPM A.2.8</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q58">SRCCL SPM A.5.3</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q62">SROCC Figure SPM.2</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q59">SROCC SPM A.5.4.</a></td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q27">SROCC SPM A.6.1</a></td>
@@ -52,13 +640,22 @@ SELECT ?section ?sectionLabel WHERE {
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q29">SROCC SPM A.7</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q30">2.1.2 Observed Climate System Changes and Impacts to Date</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q60">SROCC SPM A.7.1</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q31">paragraph 2.1.2.c</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q61">SROCC SPM A.8.1</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">paragraph 2.1.2.d</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q54">WGII Figure SPM.2</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q21">WGII Figure SPM.2.A</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q19">WGII SPM B.1.1</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q20">WGII SPM B.1.2</a></td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q52">WGII SPM B.1.3</a></td>
@@ -67,31 +664,13 @@ SELECT ?section ?sectionLabel WHERE {
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q53">WGII SPM.B.2.3</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q54">WGII Figure SPM.2</a></td>
-  </tr>
-  <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q55">WGII TS B.2.3</a></td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q56">WGII TS Figure TS. 6</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q57">SRCCL SPM A.2.8</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q58">SRCCL SPM A.5.3</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q59">SROCC SPM A.5.4.</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q60">SROCC SPM A.7.1</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q61">SROCC SPM A.8.1</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q62">SROCC Figure SPM.2</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q22">WGII TS.B.1</a></td>
   </tr>
 </table>
 ## Code examples

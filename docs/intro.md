@@ -34,7 +34,7 @@ With gives:
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q2">high confidence</a></td>
-    <td>13</td>
+    <td>17</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q16">medium confidence</a></td>
@@ -42,7 +42,7 @@ With gives:
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q15">very high confidence</a></td>
-    <td>3</td>
+    <td>5</td>
   </tr>
 </table>
 

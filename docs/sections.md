@@ -9,7 +9,7 @@ The <a name="tp1">AR6 Syntheses Report</a> consists of many sections, each of wh
 
 We can list all the <a name="tp4">sections</a> in the book:
 
-**SPARQL** [sparql/allSections.rq](sparql/allSections.code.html) ([run](https://kg-ipclimatec-reports.wikibase.cloud/query/embed.html#PREFIX%20wdt%3A%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fdirect%2F%3E%0APREFIX%20wd%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fentity%2F%3E%0A%0ASELECT%20%3Fsection%20%3FsectionLabel%20WHERE%20%7B%0A%20%20%3Fsection%20wdt%3AP1%20wd%3AQ18%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0A), [edit](https://kg-ipclimatec-reports.wikibase.cloud/query/#PREFIX%20wdt%3A%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fdirect%2F%3E%0APREFIX%20wd%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fentity%2F%3E%0A%0ASELECT%20%3Fsection%20%3FsectionLabel%20WHERE%20%7B%0A%20%20%3Fsection%20wdt%3AP1%20wd%3AQ18%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0A))
+**SPARQL** [sparql/allSections.rq](sparql/allSections.code.html) ([run](https://kg-ipclimatec-reports.wikibase.cloud/query/embed.html#PREFIX%20wdt%3A%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fdirect%2F%3E%0APREFIX%20wd%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fentity%2F%3E%0A%0ASELECT%20%3Fsection%20%3FsectionLabel%20WHERE%20%7B%0A%20%20%3Fsection%20wdt%3AP1%20wd%3AQ18%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3FsectionLabel%29%0A), [edit](https://kg-ipclimatec-reports.wikibase.cloud/query/#PREFIX%20wdt%3A%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fdirect%2F%3E%0APREFIX%20wd%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fentity%2F%3E%0A%0ASELECT%20%3Fsection%20%3FsectionLabel%20WHERE%20%7B%0A%20%20%3Fsection%20wdt%3AP1%20wd%3AQ18%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20ASC%28%3FsectionLabel%29%0A))
 
 ```sparql
 PREFIX wdt: <https://kg-ipclimatec-reports.wikibase.cloud/prop/direct/>
@@ -17,7 +17,7 @@ PREFIX wd:  <https://kg-ipclimatec-reports.wikibase.cloud/entity/>
 SELECT ?section ?sectionLabel WHERE {
   ?section wdt:P1 wd:Q18 .
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
-}
+} ORDER BY ASC(?sectionLabel)
 ```
 
 Which gives:
@@ -27,13 +27,13 @@ Which gives:
     <td><b>section</b></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q19">WGII SPM B.1.1</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q67">2.1.1 Observed Warming and its Causes</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q20">WGII SPM B.1.2</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q66">2.1.1.a</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q21">WGII Figure SPM.2.A</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q101">2.1.1.b</a></td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/allSections.code.html">sparql/allSections.rq</a></td></tr>
 </table>
@@ -61,12 +61,20 @@ Which gives:
     <td><b>count</b></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q31">paragraph 2.1.2.c</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q31">2.1.2.c</a></td>
     <td>11</td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">paragraph 2.1.2.d</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
     <td>7</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q101">2.1.1.b</a></td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q66">2.1.1.a</a></td>
+    <td>2</td>
   </tr>
 </table>
 

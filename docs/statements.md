@@ -105,42 +105,42 @@ For now, this is what the results look like as table:
     <td><b>coordinates</b></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">paragraph 2.1.2.d</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
     <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
     <td>Point(7.1881 21.09375)</td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">paragraph 2.1.2.d</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
     <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
     <td>Point(-59.0 -21.0)</td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">paragraph 2.1.2.d</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
     <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
     <td>Point(87.331111111 43.681111111)</td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">paragraph 2.1.2.d</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
     <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
     <td>Point(0.0 89.9997)</td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q31">paragraph 2.1.2.c</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q31">2.1.2.c</a></td>
     <td>Impacts on some ecosystems are approaching irreversibility such as the impacts of hydrological changes resulting from the retreat of glaciers, or the changes in some [..] Arctic ecosystems driven by permafrost thaw.</td>
     <td>Point(0.0 89.9997)</td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">paragraph 2.1.2.d</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
     <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
     <td>Point(0.0 89.9997)</td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q31">paragraph 2.1.2.c</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q31">2.1.2.c</a></td>
     <td>Impacts on some ecosystems are approaching irreversibility such as the impacts of hydrological changes resulting from the retreat of glaciers, or the changes in some [..] Arctic ecosystems driven by permafrost thaw.</td>
     <td>Point(0.0 89.9997)</td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">paragraph 2.1.2.d</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
     <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
     <td>Point(-86.0 12.0)</td>
   </tr>
@@ -224,15 +224,23 @@ This gives:
     <td><b>count</b></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q69">methane</a></td>
-    <td>1</td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q70">CO₂</a></td>
+    <td>4</td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q70">CO₂</a></td>
-    <td>1</td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q69">methane</a></td>
+    <td>3</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q282">greenhouse gas</a></td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q289">nitrous oxide</a></td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q283">ozone</a></td>
     <td>1</td>
   </tr>
 </table>

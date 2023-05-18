@@ -22,12 +22,20 @@ SELECT DISTINCT ?section ?sectionLabel (COUNT(?statement) AS ?count) WHERE {
     <td><b>count</b></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q31">paragraph 2.1.2.c</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q31">2.1.2.c</a></td>
     <td>11</td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">paragraph 2.1.2.d</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
     <td>7</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q101">2.1.1.b</a></td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q66">2.1.1.a</a></td>
+    <td>2</td>
   </tr>
 </table>
 ## Code examples
