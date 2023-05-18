@@ -10,10 +10,10 @@ PREFIX rwdt: <http://www.wikidata.org/prop/direct/>
 
 SELECT ?paragraph ?paragraphLabel ?confidenceLabel ?text ?coordinates WHERE {
   ?paragraph p:P3 ?statement .
-  ?statement pq:P9 ?specialScope ;
-             pq:P5 ?confidence ;
+  ?statement pq:P9 ?spatialScope ;
              ps:P3 ?text .
-  ?specialScope wdt:P2 ?wikidata .
+  OPTIONAL { ?statement  pq:P5 ?confidence }
+  ?spatialScope wdt:P2 ?wikidata .
   SERVICE <https://query.wikidata.org/sparql> {
     ?wikidata rwdt:P625 ?coordinates .
   }
