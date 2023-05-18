@@ -40,6 +40,16 @@ Which gives:
 
 <out>ecosystems</out>
 
+## Chemicals
+
+The report also mentions chemicals in multiple facts. We have these:
+
+<sparql>chemicals</sparql>
+
+This gives:
+
+<out>chemicals</out>
+
 ## Impact
 
 Many facts mention the impact they have. Facts can be annotated with the impact.
@@ -49,6 +59,19 @@ Many facts mention the impact they have. Facts can be annotated with the impact.
 This gives:
 
 <out>impacts</out>
+
+## Drivers
+
+Climate change is caused by both natural and human drivers. The report ascribes effects to drivers.
+The Wikibase has the following drivers:
+
+<sparql>drivers</sparql>
+
+This gives:
+
+<out>drivers</out>
+
+
 
 ## References
 
