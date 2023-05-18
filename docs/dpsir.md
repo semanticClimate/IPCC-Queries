@@ -116,19 +116,15 @@ This gives:
 
 <table>
   <tr>
-    <td><b>driver</b></td>
+    <td><b>state</b></td>
     <td><b>count</b></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q291">human activities</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q294">global surface temperature</a></td>
     <td>2</td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q279">volcanic</a></td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q280">solar</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q293">concentrations of well-mixed GHG</a></td>
     <td>1</td>
   </tr>
 </table>

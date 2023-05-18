@@ -32,7 +32,7 @@ The properties of the environment that pressures change are called <topic>state<
 
 This gives:
 
-<out>drivers</out>
+<out>states</out>
 
 ### Impacts
 
