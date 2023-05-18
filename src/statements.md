@@ -1,12 +1,12 @@
-# Statement Annotations
+# Facts Annotations
 
-Statements are annotated with their confidence level, but more interesting is their annotation
+Facts are annotated with their confidence level, but more interesting is their annotation
 with other topics. This section shows how statements can be annotated.
 
 ## Regional annotation
 
-Statements can be annotated with the region they are about. We can the list all such regions
-and the number of statements about that region:
+Facts can be annotated with the region they are about. We can the list all such regions
+and the number of facts about that region:
 
 <sparql>regions</sparql>
 
