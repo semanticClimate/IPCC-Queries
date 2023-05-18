@@ -22,7 +22,7 @@ The way that drivers affect the environment is expressed in <topic>pressure</top
 
 This gives:
 
-<out>pressures</sparql>
+<out>pressures</out>
 
 ### States
 
