@@ -1,11 +1,11 @@
 # Facts Annotations
 
-Facts are annotated with their confidence level, but more interesting is their annotation
+Facts are annotated with their confidence level, but more interesting is their <topic>annotation</topic>
 with other topics. This section shows how statements can be annotated.
 
 ## Regional annotation
 
-Facts can be annotated with the region they are about. We can the list all such regions
+Facts can be annotated with the region they are about. We can the list all such <topic>regions</topic>
 and the number of facts about that region:
 
 <sparql>regions</sparql>
@@ -42,7 +42,7 @@ Which gives:
 
 ## Chemicals
 
-The report also mentions chemicals in multiple facts. We have these:
+The report also mentions <topic>chemicals</topic> in multiple facts. We have these:
 
 <sparql>chemicals</sparql>
 
@@ -52,7 +52,7 @@ This gives:
 
 ## Impact
 
-Many facts mention the impact they have. Facts can be annotated with the impact.
+Many facts mention the impact they have. Facts can be annotated with the <topic>impact</topic>.
 
 <sparql>impacts</sparql>
 
@@ -62,7 +62,7 @@ This gives:
 
 ## Drivers
 
-Climate change is caused by both natural and human drivers. The report ascribes effects to drivers.
+Climate change is caused by both natural and human <topic>drivers</topic>. The report ascribes effects to drivers.
 The Wikibase has the following drivers:
 
 <sparql>drivers</sparql>
@@ -70,8 +70,6 @@ The Wikibase has the following drivers:
 This gives:
 
 <out>drivers</out>
-
-
 
 ## References
 
