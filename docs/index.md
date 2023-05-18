@@ -2,7 +2,7 @@
 
 # IPCC Wikibase Queries
 
-© 2023 Egon Willighagen
+© 2023 Egon Willighagen, Lars Willighagen
 
 License: [CC-BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -23,12 +23,19 @@ under the [CCZero license/waiver](https://creativecommons.org/share-your-work/pu
 3.1.1. [Putting facts on the map](statements.md#putting-facts-on-the-map) <br />
 3.2. [Ecosystems](statements.md#ecosystems) <br />
 3.3. [Chemicals](statements.md#chemicals) <br />
-3.4. [Impact](statements.md#impact) <br />
-3.5. [Drivers](statements.md#drivers) <br />
-4. [AR6 Syntheses Report](ar6syr.md) <br />
+4. [Using the DPSIR Framework](dpsir.md) <br />
+4.1. [Components of the framework](dpsir.md#components-of-the-framework) <br />
+4.1.1. [Drivers](dpsir.md#drivers) <br />
+4.1.2. [Pressures](dpsir.md#pressures) <br />
+4.1.3. [States](dpsir.md#states) <br />
+4.1.4. [Impacts](dpsir.md#impacts) <br />
+4.1.5. [Responses](dpsir.md#responses) <br />
+4.2. [DPSIR Chains](dpsir.md#dpsir-chains) <br />
+5. [AR6 Syntheses Report](ar6syr.md) <br />
 
 [Index](indexList.md) <br />
 
 ## Authors and content contributors
 
 * Egon Willighagen
+* Lars Willighagen
