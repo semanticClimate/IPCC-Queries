@@ -67,10 +67,6 @@ PREFIX pq: <http://www.wikidata.org/prop/qualifier/>
 PREFIX wd:  <https://kg-ipclimatec-reports.wikibase.cloud/entity/>
 PREFIX wdt: <https://kg-ipclimatec-reports.wikibase.cloud/prop/direct/>
 
-# SELECT ?section WHERE { ?section wdt:P1 wd:Q18 . }
-
-# Run with: https://shex-simple.toolforge.org/wikidata/packages/shex-webapp/doc/shex-simple.html?data=Endpoint:%20https://kg-ipclimatec-reports.wikibase.cloud/sparql&hideData&manifest=[]&textMapIsSparqlQuery&schemaURL=%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fwiki%2FSpecial%3AEntitySchemaText%2FE1
-
 START = @<Section>
 
 <Section> {
