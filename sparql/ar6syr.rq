@@ -1,0 +1,8 @@
+PREFIX wdt: <https://kg-ipclimatec-reports.wikibase.cloud/prop/direct/>
+PREFIX wd:  <https://kg-ipclimatec-reports.wikibase.cloud/entity/>
+
+SELECT ?section ?sectionLabel ?paragraph ?paragraphLabel WHERE {
+  VALUES ?report { wd:Q99 } # Q99 = AR6 Synthesis Report: Climate Change 2023
+  ?section wdt:P4 ?report ; ^wdt:P4 ?paragraph .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+} ORDER BY ASC(?sectionLabel) ASC(?paragraphLabel)

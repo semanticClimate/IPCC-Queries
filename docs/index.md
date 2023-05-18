@@ -23,6 +23,7 @@ under the [CCZero license/waiver](https://creativecommons.org/share-your-work/pu
 3.1.1. [Putting facts on the map](statements.md#putting-facts-on-the-map) <br />
 3.2. [Ecosystems](statements.md#ecosystems) <br />
 3.3. [Impact](statements.md#impact) <br />
+4. [AR6 Syntheses Report](ar6syr.md) <br />
 
 [Index](indexList.md) <br />
 
