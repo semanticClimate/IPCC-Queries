@@ -46,6 +46,14 @@ SELECT ?specialScope ?specialScopeLabel (COUNT(DISTINCT ?statement) AS ?count) W
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q47">South America</a></td>
     <td>1</td>
   </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q298">Greenland ice sheet</a></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q299">West Antarctic Ice Sheet</a></td>
+    <td>1</td>
+  </tr>
 </table>
 ## Code examples
 ### curl

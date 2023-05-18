@@ -65,6 +65,10 @@ Which gives:
     <td>11</td>
   </tr>
   <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q164">3.1.3.b</a></td>
+    <td>9</td>
+  </tr>
+  <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
     <td>7</td>
   </tr>
@@ -75,6 +79,10 @@ Which gives:
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q66">2.1.1.a</a></td>
     <td>2</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q295">2.1.1.e</a></td>
+    <td>1</td>
   </tr>
 </table>
 

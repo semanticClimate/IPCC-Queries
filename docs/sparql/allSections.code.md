@@ -28,6 +28,9 @@ SELECT ?section ?sectionLabel WHERE {
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q101">2.1.1.b</a></td>
   </tr>
   <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q295">2.1.1.e</a></td>
+  </tr>
+  <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q103">2.1.1.g</a></td>
   </tr>
   <tr>
@@ -250,7 +253,7 @@ SELECT ?section ?sectionLabel WHERE {
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q165">3.1.3.c</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q222">3.2</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q222">3.2 Long-term Adaptation Options and Limits</a></td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q233">3.2.b</a></td>
@@ -361,7 +364,7 @@ SELECT ?section ?sectionLabel WHERE {
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q190">3.4.2.d</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q223">4.1</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q223">4.1 The Timing and Urgency of Climate Action</a></td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q238">4.1.b</a></td>
@@ -376,7 +379,7 @@ SELECT ?section ?sectionLabel WHERE {
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q224">4.2</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q224">4.2 Benefits of Strengthening Near-Term Action</a></td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q242">4.2.c</a></td>
@@ -409,7 +412,7 @@ SELECT ?section ?sectionLabel WHERE {
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q253">4.3.g</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q226">4.4</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q226">4.4 Equity and Inclusion in Climate Change Action</a></td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q254">4.4.b</a></td>
@@ -430,7 +433,7 @@ SELECT ?section ?sectionLabel WHERE {
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q259">4.4.g</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q227">4.5</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q227">4.5 Near-Term Mitigation and Adaptation Actions</a></td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q88">4.5.1 Energy Systems</a></td>
@@ -517,7 +520,7 @@ SELECT ?section ?sectionLabel WHERE {
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q262">4.5.d</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q228">4.6</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q228">4.6 Co-Benefits of Adaptation and Mitigation for Sustainable Development Goals</a></td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q263">4.6.b</a></td>
@@ -532,7 +535,7 @@ SELECT ?section ?sectionLabel WHERE {
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q266">4.6.e</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q229">4.7</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q229">4.7 Governance and Policy for Near-Term Climate Change Action</a></td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q267">4.7.b</a></td>
@@ -560,6 +563,9 @@ SELECT ?section ?sectionLabel WHERE {
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q275">4.7.j</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q300">4.8 Strengthening the Response: Finance, International Cooperation and Technology</a></td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q94">4.8.1 Finance for Mitigation and Adaptation Actions</a></td>
@@ -595,7 +601,7 @@ SELECT ?section ?sectionLabel WHERE {
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q220">4.8.3.e</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q221">4.9</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q221">4.9 Integration of Near-Term Actions Across Sectors and Systems</a></td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q230">4.9.b</a></td>

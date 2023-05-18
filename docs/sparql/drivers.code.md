@@ -32,10 +32,6 @@ SELECT ?driver ?driverLabel (COUNT(DISTINCT ?statement) AS ?count) WHERE {
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q280">solar</a></td>
     <td>1</td>
   </tr>
-  <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q281">aerosols</a></td>
-    <td>1</td>
-  </tr>
 </table>
 ## Code examples
 ### curl

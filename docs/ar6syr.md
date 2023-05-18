@@ -37,6 +37,10 @@ Which gives us this AR6 Syntheses Report content:
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q67">2.1.1 Observed Warming and its Causes</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q295">2.1.1.e</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q67">2.1.1 Observed Warming and its Causes</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q103">2.1.1.g</a></td>
   </tr>
   <tr>
@@ -292,23 +296,23 @@ Which gives us this AR6 Syntheses Report content:
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q165">3.1.3.c</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q222">3.2</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q222">3.2 Long-term Adaptation Options and Limits</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q233">3.2.b</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q222">3.2</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q222">3.2 Long-term Adaptation Options and Limits</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q234">3.2.c</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q222">3.2</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q222">3.2 Long-term Adaptation Options and Limits</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q235">3.2.d</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q222">3.2</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q222">3.2 Long-term Adaptation Options and Limits</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q236">3.2.e</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q222">3.2</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q222">3.2 Long-term Adaptation Options and Limits</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q237">3.2.f</a></td>
   </tr>
   <tr>
@@ -396,79 +400,79 @@ Which gives us this AR6 Syntheses Report content:
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q190">3.4.2.d</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q223">4.1</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q223">4.1 The Timing and Urgency of Climate Action</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q238">4.1.b</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q223">4.1</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q223">4.1 The Timing and Urgency of Climate Action</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q239">4.1.d</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q223">4.1</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q223">4.1 The Timing and Urgency of Climate Action</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q240">4.1.e</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q223">4.1</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q223">4.1 The Timing and Urgency of Climate Action</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q224">4.2</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q224">4.2 Benefits of Strengthening Near-Term Action</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q242">4.2.c</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q224">4.2</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q224">4.2 Benefits of Strengthening Near-Term Action</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q243">4.2.d</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q224">4.2</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q224">4.2 Benefits of Strengthening Near-Term Action</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q244">4.2.e</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q224">4.2</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q224">4.2 Benefits of Strengthening Near-Term Action</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q245">4.2.f</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q224">4.2</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q224">4.2 Benefits of Strengthening Near-Term Action</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q247">4.2.i</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q224">4.2</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q224">4.2 Benefits of Strengthening Near-Term Action</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q248">4.2.k</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q226">4.4</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q226">4.4 Equity and Inclusion in Climate Change Action</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q254">4.4.b</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q226">4.4</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q226">4.4 Equity and Inclusion in Climate Change Action</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q255">4.4.c</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q226">4.4</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q226">4.4 Equity and Inclusion in Climate Change Action</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q256">4.4.d</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q226">4.4</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q226">4.4 Equity and Inclusion in Climate Change Action</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q257">4.4.e</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q226">4.4</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q226">4.4 Equity and Inclusion in Climate Change Action</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q258">4.4.f</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q226">4.4</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q226">4.4 Equity and Inclusion in Climate Change Action</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q259">4.4.g</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q227">4.5</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q227">4.5 Near-Term Mitigation and Adaptation Actions</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q260">4.5.b</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q227">4.5</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q227">4.5 Near-Term Mitigation and Adaptation Actions</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q261">4.5.c</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q227">4.5</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q227">4.5 Near-Term Mitigation and Adaptation Actions</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q262">4.5.d</a></td>
   </tr>
   <tr>
@@ -548,55 +552,55 @@ Which gives us this AR6 Syntheses Report content:
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q211">4.5.6.d</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q228">4.6</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q228">4.6 Co-Benefits of Adaptation and Mitigation for Sustainable Development Goals</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q263">4.6.b</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q228">4.6</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q228">4.6 Co-Benefits of Adaptation and Mitigation for Sustainable Development Goals</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q264">4.6.c</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q228">4.6</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q228">4.6 Co-Benefits of Adaptation and Mitigation for Sustainable Development Goals</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q265">4.6.d</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q228">4.6</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q228">4.6 Co-Benefits of Adaptation and Mitigation for Sustainable Development Goals</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q266">4.6.e</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q229">4.7</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q229">4.7 Governance and Policy for Near-Term Climate Change Action</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q267">4.7.b</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q229">4.7</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q229">4.7 Governance and Policy for Near-Term Climate Change Action</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q268">4.7.c</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q229">4.7</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q229">4.7 Governance and Policy for Near-Term Climate Change Action</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q269">4.7.d</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q229">4.7</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q229">4.7 Governance and Policy for Near-Term Climate Change Action</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q270">4.7.e</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q229">4.7</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q229">4.7 Governance and Policy for Near-Term Climate Change Action</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q271">4.7.f</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q229">4.7</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q229">4.7 Governance and Policy for Near-Term Climate Change Action</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q272">4.7.g</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q229">4.7</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q229">4.7 Governance and Policy for Near-Term Climate Change Action</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q273">4.7.h</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q229">4.7</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q229">4.7 Governance and Policy for Near-Term Climate Change Action</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q274">4.7.i</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q229">4.7</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q229">4.7 Governance and Policy for Near-Term Climate Change Action</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q275">4.7.j</a></td>
   </tr>
   <tr>
@@ -632,15 +636,15 @@ Which gives us this AR6 Syntheses Report content:
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q220">4.8.3.e</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q221">4.9</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q221">4.9 Integration of Near-Term Actions Across Sectors and Systems</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q230">4.9.b</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q221">4.9</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q221">4.9 Integration of Near-Term Actions Across Sectors and Systems</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q231">4.9.c</a></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q221">4.9</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q221">4.9 Integration of Near-Term Actions Across Sectors and Systems</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q232">4.9.d</a></td>
   </tr>
 </table>

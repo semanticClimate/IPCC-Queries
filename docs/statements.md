@@ -54,6 +54,14 @@ With gives:
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q47">South America</a></td>
     <td>1</td>
   </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q298">Greenland ice sheet</a></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q299">West Antarctic Ice Sheet</a></td>
+    <td>1</td>
+  </tr>
 </table>
 
 ### Putting facts on the map
@@ -254,16 +262,16 @@ This gives:
     <td><b>count</b></td>
   </tr>
   <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q69">methane</a></td>
+    <td>4</td>
+  </tr>
+  <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q70">CO₂</a></td>
     <td>4</td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q69">methane</a></td>
-    <td>3</td>
-  </tr>
-  <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q282">greenhouse gas</a></td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q289">nitrous oxide</a></td>
@@ -271,6 +279,10 @@ This gives:
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q283">ozone</a></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q292">fluorinated gas</a></td>
     <td>1</td>
   </tr>
 </table>
@@ -346,10 +358,6 @@ This gives:
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q280">solar</a></td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q281">aerosols</a></td>
     <td>1</td>
   </tr>
 </table>
