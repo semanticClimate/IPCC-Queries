@@ -50,27 +50,6 @@ This gives:
 
 <out>chemicals</out>
 
-## Impact
-
-Many facts mention the impact they have. Facts can be annotated with the <topic>impact</topic>.
-
-<sparql>impacts</sparql>
-
-This gives:
-
-<out>impacts</out>
-
-## Drivers
-
-Climate change is caused by both natural and human <topic>drivers</topic>. The report ascribes effects to drivers.
-The Wikibase has the following drivers:
-
-<sparql>drivers</sparql>
-
-This gives:
-
-<out>drivers</out>
-
 ## References
 
 <references/>
