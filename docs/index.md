@@ -14,7 +14,7 @@ under the [CCZero license/waiver](https://creativecommons.org/share-your-work/pu
 1. [Introduction](intro.md) <br />
 1.1. [Confidence levels](intro.md#confidence-levels) <br />
 1.2. [Data model](intro.md#data-model) <br />
-1.2.1. [Sections and Statements](intro.md#sections-and-statements) <br />
+1.2.1. [Sections and Facts](intro.md#sections-and-facts) <br />
 2. [Sections, Paragraphs and Statements](sections.md) <br />
 2.1. [Sections](sections.md#sections) <br />
 2.2. [Paragraphs](sections.md#paragraphs) <br />

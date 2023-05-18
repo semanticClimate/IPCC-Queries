@@ -3,7 +3,7 @@
 # Sections, Paragraphs and Statements
 
 The <a name="tp1">AR6 Syntheses Report</a> consists of many sections, each of which has one or more
-<a name="tp2">paragraphs</a> [<a href="#citeref1">1</a>]. Each paragraph, in turn, contains one or more <a name="tp3">statements</a>.
+<a name="tp2">paragraphs</a> [<a href="#citeref1">1</a>]. Each paragraph, in turn, contains one or more <a name="tp3">facts</a>.
 
 ## Sections
 

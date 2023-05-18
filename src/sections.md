@@ -1,7 +1,7 @@
 # Sections, Paragraphs and Statements
 
 The <topic>AR6 Syntheses Report</topic> consists of many sections, each of which has one or more
-<topic>paragraphs</topic> [<cite>Q117820486</cite>]. Each paragraph, in turn, contains one or more <topic>statements</topic>.
+<topic>paragraphs</topic> [<cite>Q117820486</cite>]. Each paragraph, in turn, contains one or more <topic>facts</topic>.
 
 ## Sections
 
