@@ -197,15 +197,19 @@ This gives:
 
 Together these components form a chain of cause and effect. Within a statement in the IPCC report, such cause-and-effect relationships are mentioned. By annotating these statements with their different DPSIR components, the chain can be derived:
 
-**SPARQL** [sparql/dpsir.rq](sparql/dpsir.code.html) ([run](https://kg-ipclimatec-reports.wikibase.cloud/query/embed.html#PREFIX%20wdt%3A%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fdirect%2F%3E%0APREFIX%20wd%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fentity%2F%3E%0APREFIX%20p%3A%20%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2F%3E%0APREFIX%20pq%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fqualifier%2F%3E%0A%0ASELECT%20%3Fdriver%20%3FdriverLabel%20%3Fpressure%20%3FpressureLabel%20%3Fstate%20%3FstateLabel%20%3Fimpact%20%3FimpactLabel%20%3Fresponse%20%3FresponseLabel%20WHERE%20%7B%0A%20%20%3Fparagraph%20wdt%3AP1%20wd%3AQ18%3B%20p%3AP3%20%3Ffact%20.%0A%20%20OPTIONAL%20%7B%20%3Ffact%20pq%3AP18%20%3Fdriver%20%7D%0A%20%20OPTIONAL%20%7B%20%3Ffact%20pq%3AP19%20%3Fpressure%20%7D%0A%20%20OPTIONAL%20%7B%20%3Ffact%20pq%3AP20%20%3Fstate%20%7D%0A%20%20OPTIONAL%20%7B%20%3Ffact%20pq%3AP10%20%3Fimpact%20%7D%0A%20%20OPTIONAL%20%7B%20%3Ffact%20pq%3AP21%20%3Fresponse%20%7D%0A%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0A), [edit](https://kg-ipclimatec-reports.wikibase.cloud/query/#PREFIX%20wdt%3A%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fdirect%2F%3E%0APREFIX%20wd%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fentity%2F%3E%0APREFIX%20p%3A%20%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2F%3E%0APREFIX%20pq%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fqualifier%2F%3E%0A%0ASELECT%20%3Fdriver%20%3FdriverLabel%20%3Fpressure%20%3FpressureLabel%20%3Fstate%20%3FstateLabel%20%3Fimpact%20%3FimpactLabel%20%3Fresponse%20%3FresponseLabel%20WHERE%20%7B%0A%20%20%3Fparagraph%20wdt%3AP1%20wd%3AQ18%3B%20p%3AP3%20%3Ffact%20.%0A%20%20OPTIONAL%20%7B%20%3Ffact%20pq%3AP18%20%3Fdriver%20%7D%0A%20%20OPTIONAL%20%7B%20%3Ffact%20pq%3AP19%20%3Fpressure%20%7D%0A%20%20OPTIONAL%20%7B%20%3Ffact%20pq%3AP20%20%3Fstate%20%7D%0A%20%20OPTIONAL%20%7B%20%3Ffact%20pq%3AP10%20%3Fimpact%20%7D%0A%20%20OPTIONAL%20%7B%20%3Ffact%20pq%3AP21%20%3Fresponse%20%7D%0A%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0A))
+**SPARQL** [sparql/dpsir.rq](sparql/dpsir.code.html) ([run](https://kg-ipclimatec-reports.wikibase.cloud/query/embed.html#PREFIX%20wdt%3A%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fdirect%2F%3E%0APREFIX%20wd%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fentity%2F%3E%0APREFIX%20p%3A%20%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2F%3E%0APREFIX%20pq%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fqualifier%2F%3E%0A%0ASELECT%20DISTINCT%20%3Fdriver%20%3FdriverLabel%20%3Fpressure%20%3FpressureLabel%20%3Fstate%20%3FstateLabel%20%3Fimpact%20%3FimpactLabel%20%3Fresponse%20%3FresponseLabel%20WITH%20%7B%0A%20%20SELECT%20DISTINCT%20%3Ffact%20WHERE%20%7B%0A%20%20%20%20%3Fparagraph%20wdt%3AP1%20wd%3AQ18%3B%20p%3AP3%20%3Ffact%20.%0A%20%20%7D%0A%7D%20AS%20%25PARAGRAPHS%20WHERE%20%7B%0A%20%20INCLUDE%20%25PARAGRAPHS%0A%20%20OPTIONAL%20%7B%20%3Ffact%20pq%3AP18%20%3Fdriver%20%7D%0A%20%20OPTIONAL%20%7B%20%3Ffact%20pq%3AP19%20%3Fpressure%20%7D%0A%20%20OPTIONAL%20%7B%20%3Ffact%20pq%3AP20%20%3Fstate%20%7D%0A%20%20OPTIONAL%20%7B%20%3Ffact%20pq%3AP10%20%3Fimpact%20%7D%0A%20%20OPTIONAL%20%7B%20%3Ffact%20pq%3AP21%20%3Fresponse%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0A), [edit](https://kg-ipclimatec-reports.wikibase.cloud/query/#PREFIX%20wdt%3A%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fdirect%2F%3E%0APREFIX%20wd%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fentity%2F%3E%0APREFIX%20p%3A%20%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2F%3E%0APREFIX%20pq%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fqualifier%2F%3E%0A%0ASELECT%20DISTINCT%20%3Fdriver%20%3FdriverLabel%20%3Fpressure%20%3FpressureLabel%20%3Fstate%20%3FstateLabel%20%3Fimpact%20%3FimpactLabel%20%3Fresponse%20%3FresponseLabel%20WITH%20%7B%0A%20%20SELECT%20DISTINCT%20%3Ffact%20WHERE%20%7B%0A%20%20%20%20%3Fparagraph%20wdt%3AP1%20wd%3AQ18%3B%20p%3AP3%20%3Ffact%20.%0A%20%20%7D%0A%7D%20AS%20%25PARAGRAPHS%20WHERE%20%7B%0A%20%20INCLUDE%20%25PARAGRAPHS%0A%20%20OPTIONAL%20%7B%20%3Ffact%20pq%3AP18%20%3Fdriver%20%7D%0A%20%20OPTIONAL%20%7B%20%3Ffact%20pq%3AP19%20%3Fpressure%20%7D%0A%20%20OPTIONAL%20%7B%20%3Ffact%20pq%3AP20%20%3Fstate%20%7D%0A%20%20OPTIONAL%20%7B%20%3Ffact%20pq%3AP10%20%3Fimpact%20%7D%0A%20%20OPTIONAL%20%7B%20%3Ffact%20pq%3AP21%20%3Fresponse%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0A))
 
 ```sparql
 PREFIX wdt: <https://kg-ipclimatec-reports.wikibase.cloud/prop/direct/>
 PREFIX wd:  <https://kg-ipclimatec-reports.wikibase.cloud/entity/>
 PREFIX p:   <https://kg-ipclimatec-reports.wikibase.cloud/prop/>
 PREFIX pq:  <https://kg-ipclimatec-reports.wikibase.cloud/prop/qualifier/>
-SELECT ?driver ?driverLabel ?pressure ?pressureLabel ?state ?stateLabel ?impact ?impactLabel ?response ?responseLabel WHERE {
-  ?paragraph wdt:P1 wd:Q18; p:P3 ?fact .
+SELECT DISTINCT ?driver ?driverLabel ?pressure ?pressureLabel ?state ?stateLabel ?impact ?impactLabel ?response ?responseLabel WITH {
+  SELECT DISTINCT ?fact WHERE {
+    ?paragraph wdt:P1 wd:Q18; p:P3 ?fact .
+  }
+} AS %PARAGRAPHS WHERE {
+  INCLUDE %PARAGRAPHS
   OPTIONAL { ?fact pq:P18 ?driver }
   OPTIONAL { ?fact pq:P19 ?pressure }
   OPTIONAL { ?fact pq:P20 ?state }
@@ -226,8 +230,36 @@ This gives:
     <td><b>response</b></td>
   </tr>
   <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q279">volcanic</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q281">aerosol emissions</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q294">global surface temperature</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q279">volcanic</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q290">greenhouse gas emission</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q294">global surface temperature</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q280">solar</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q281">aerosol emissions</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q294">global surface temperature</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q280">solar</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q290">greenhouse gas emission</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q294">global surface temperature</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
 
 ## References
 
-1. <a name="citeref1"></a>Missing
+1. <a name="citeref1"></a>Agency) E (European E. Environmental indicators: Typology and overview [Internet]. 1999. Available from: https://www.eea.europa.eu/ds_resolveuid/3c0498ab530f27b809d672624f59df97
 

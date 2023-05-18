@@ -3,13 +3,16 @@ PREFIX wd:  <https://kg-ipclimatec-reports.wikibase.cloud/entity/>
 PREFIX p:   <https://kg-ipclimatec-reports.wikibase.cloud/prop/>
 PREFIX pq:  <https://kg-ipclimatec-reports.wikibase.cloud/prop/qualifier/>
 
-SELECT ?driver ?driverLabel ?pressure ?pressureLabel ?state ?stateLabel ?impact ?impactLabel ?response ?responseLabel WHERE {
-  ?paragraph wdt:P1 wd:Q18; p:P3 ?fact .
+SELECT DISTINCT ?driver ?driverLabel ?pressure ?pressureLabel ?state ?stateLabel ?impact ?impactLabel ?response ?responseLabel WITH {
+  SELECT DISTINCT ?fact WHERE {
+    ?paragraph wdt:P1 wd:Q18; p:P3 ?fact .
+  }
+} AS %PARAGRAPHS WHERE {
+  INCLUDE %PARAGRAPHS
   OPTIONAL { ?fact pq:P18 ?driver }
   OPTIONAL { ?fact pq:P19 ?pressure }
   OPTIONAL { ?fact pq:P20 ?state }
   OPTIONAL { ?fact pq:P10 ?impact }
   OPTIONAL { ?fact pq:P21 ?response }
-
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
 }
