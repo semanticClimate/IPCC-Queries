@@ -1,6 +1,6 @@
 # IPCC Wikibase Queries
 
-© 2023 Egon Willighagen
+© 2023 Egon Willighagen, Lars Willighagen
 
 License: [CC-BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -16,3 +16,4 @@ under the [CCZero license/waiver](https://creativecommons.org/share-your-work/pu
 ## Authors and content contributors
 
 * Egon Willighagen
+* Lars Willighagen
