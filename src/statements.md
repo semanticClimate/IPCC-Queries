@@ -14,9 +14,9 @@ With gives:
 
 <out>regions</out>
 
-### Putting statements on the map
+### Putting facts on the map
 
-With the following SPARQL query we can show statements on the world map,
+With the following SPARQL query we can show facts on the world map,
 taking advantage of Wikidata [<cite>Q27042516</cite>] to provide geographical coordinates for regions,
 using a <topic>federated SPARQL query</topic>:
 
@@ -42,7 +42,7 @@ Which gives:
 
 ## Impact
 
-Many statements mention the impact they have. Statements can be annotated with the impact.
+Many facts mention the impact they have. Facts can be annotated with the impact.
 
 <sparql>impacts</sparql>
 

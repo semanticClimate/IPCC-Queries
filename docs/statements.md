@@ -56,9 +56,9 @@ With gives:
   </tr>
 </table>
 
-### Putting statements on the map
+### Putting facts on the map
 
-With the following SPARQL query we can show statements on the world map,
+With the following SPARQL query we can show facts on the world map,
 taking advantage of Wikidata [<a href="#citeref1">1</a>] to provide geographical coordinates for regions,
 using a <a name="tp1">federated SPARQL query</a>:
 
@@ -198,7 +198,7 @@ Which gives:
 
 ## Impact
 
-Many statements mention the impact they have. Statements can be annotated with the impact.
+Many facts mention the impact they have. Facts can be annotated with the impact.
 
 **SPARQL** [sparql/impacts.rq](sparql/impacts.code.html) ([run](https://kg-ipclimatec-reports.wikibase.cloud/query/embed.html#PREFIX%20wdt%3A%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fdirect%2F%3E%0APREFIX%20wd%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fentity%2F%3E%0APREFIX%20p%3A%20%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2F%3E%0APREFIX%20pq%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fqualifier%2F%3E%0A%0ASELECT%20%3Fimpact%20%3FimpactLabel%20%28COUNT%28DISTINCT%20%3Fstatement%29%20AS%20%3Fcount%29%20WHERE%20%7B%0A%20%20%3Fparagraph%20p%3AP3%20%3Fstatement%20.%0A%20%20%3Fstatement%20pq%3AP10%20%3Fimpact%20.%0A%20%20%3Fimpact%20wdt%3AP1%20wd%3AQ41%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20GROUP%20BY%20%3Fimpact%20%3FimpactLabel%0A%20%20ORDER%20BY%20DESC%28%3Fcount%29%0A), [edit](https://kg-ipclimatec-reports.wikibase.cloud/query/#PREFIX%20wdt%3A%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fdirect%2F%3E%0APREFIX%20wd%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fentity%2F%3E%0APREFIX%20p%3A%20%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2F%3E%0APREFIX%20pq%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fqualifier%2F%3E%0A%0ASELECT%20%3Fimpact%20%3FimpactLabel%20%28COUNT%28DISTINCT%20%3Fstatement%29%20AS%20%3Fcount%29%20WHERE%20%7B%0A%20%20%3Fparagraph%20p%3AP3%20%3Fstatement%20.%0A%20%20%3Fstatement%20pq%3AP10%20%3Fimpact%20.%0A%20%20%3Fimpact%20wdt%3AP1%20wd%3AQ41%20.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20GROUP%20BY%20%3Fimpact%20%3FimpactLabel%0A%20%20ORDER%20BY%20DESC%28%3Fcount%29%0A))
 

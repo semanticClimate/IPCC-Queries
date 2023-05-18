@@ -75,7 +75,7 @@ Which gives:
 For each section we can list the paragraphs and their <a name="tp5">confidence levels</a>,
 for example for paragraph <i>paragraph 2.1.2.d</i> ([Q49](https://kg-ipclimatec-reports.wikibase.cloud/wiki/Item:Q49)):
 
-**SPARQL** [sparql/statementsWithConfidence.rq](sparql/statementsWithConfidence.code.html) ([run](https://kg-ipclimatec-reports.wikibase.cloud/query/embed.html#PREFIX%20wdt%3A%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fdirect%2F%3E%0APREFIX%20wd%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fentity%2F%3E%0APREFIX%20p%3A%20%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2F%3E%0APREFIX%20pq%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fqualifier%2F%3E%0APREFIX%20ps%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fstatement%2F%3E%0A%0ASELECT%20DISTINCT%20%3Fstatement%20%3FstatementLabel%20%28GROUP_CONCAT%28%3Fvalue_string%3B%20separator%3D%22%2C%20%22%29%20as%20%3Fconfidences%29%20WHERE%20%7B%0A%20%20VALUES%20%3Fsection%20%7B%20wd%3AQ49%20%7D%0A%20%20%3Fsection%20p%3AP3%20%3FstatementStatement%20.%0A%20%20BIND%20%28%3Fsection%20AS%20%3Fstatement%29%0A%20%20%3FstatementStatement%20ps%3AP3%20%3FstatementLabel%20.%0A%20%20%3FstatementStatement%20pq%3AP5%20%3Fconfidence%20.%0A%20%20%3Fconfidence%20rdfs%3Alabel%20%3Fvalue_string%20.%20%0A%20%20FILTER%20%28LANG%28%3Fvalue_string%29%20%3D%20%27en%27%29%0A%7D%20GROUP%20BY%20%3Fstatement%20%3FstatementLabel%0A), [edit](https://kg-ipclimatec-reports.wikibase.cloud/query/#PREFIX%20wdt%3A%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fdirect%2F%3E%0APREFIX%20wd%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fentity%2F%3E%0APREFIX%20p%3A%20%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2F%3E%0APREFIX%20pq%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fqualifier%2F%3E%0APREFIX%20ps%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fstatement%2F%3E%0A%0ASELECT%20DISTINCT%20%3Fstatement%20%3FstatementLabel%20%28GROUP_CONCAT%28%3Fvalue_string%3B%20separator%3D%22%2C%20%22%29%20as%20%3Fconfidences%29%20WHERE%20%7B%0A%20%20VALUES%20%3Fsection%20%7B%20wd%3AQ49%20%7D%0A%20%20%3Fsection%20p%3AP3%20%3FstatementStatement%20.%0A%20%20BIND%20%28%3Fsection%20AS%20%3Fstatement%29%0A%20%20%3FstatementStatement%20ps%3AP3%20%3FstatementLabel%20.%0A%20%20%3FstatementStatement%20pq%3AP5%20%3Fconfidence%20.%0A%20%20%3Fconfidence%20rdfs%3Alabel%20%3Fvalue_string%20.%20%0A%20%20FILTER%20%28LANG%28%3Fvalue_string%29%20%3D%20%27en%27%29%0A%7D%20GROUP%20BY%20%3Fstatement%20%3FstatementLabel%0A))
+**SPARQL** [sparql/statementsWithConfidence.rq](sparql/statementsWithConfidence.code.html) ([run](https://kg-ipclimatec-reports.wikibase.cloud/query/embed.html#PREFIX%20wdt%3A%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fdirect%2F%3E%0APREFIX%20wd%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fentity%2F%3E%0APREFIX%20p%3A%20%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2F%3E%0APREFIX%20pq%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fqualifier%2F%3E%0APREFIX%20ps%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fstatement%2F%3E%0A%0ASELECT%20DISTINCT%20%3Ffact%20%3FfactLabel%20%28GROUP_CONCAT%28%3Fvalue_string%3B%20separator%3D%22%2C%20%22%29%20as%20%3Fconfidences%29%20WHERE%20%7B%0A%20%20VALUES%20%3Fsection%20%7B%20wd%3AQ49%20%7D%0A%20%20%3Fsection%20p%3AP3%20%3FfactStatement%20.%0A%20%20BIND%20%28%3Fsection%20AS%20%3Ffact%29%0A%20%20%3FfactStatement%20ps%3AP3%20%3FfactLabel%20.%0A%20%20%3FfactStatement%20pq%3AP5%20%3Fconfidence%20.%0A%20%20%3Fconfidence%20rdfs%3Alabel%20%3Fvalue_string%20.%20%0A%20%20FILTER%20%28LANG%28%3Fvalue_string%29%20%3D%20%27en%27%29%0A%7D%20GROUP%20BY%20%3Ffact%20%3FfactLabel%0A), [edit](https://kg-ipclimatec-reports.wikibase.cloud/query/#PREFIX%20wdt%3A%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fdirect%2F%3E%0APREFIX%20wd%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fentity%2F%3E%0APREFIX%20p%3A%20%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2F%3E%0APREFIX%20pq%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fqualifier%2F%3E%0APREFIX%20ps%3A%20%20%3Chttps%3A%2F%2Fkg-ipclimatec-reports.wikibase.cloud%2Fprop%2Fstatement%2F%3E%0A%0ASELECT%20DISTINCT%20%3Ffact%20%3FfactLabel%20%28GROUP_CONCAT%28%3Fvalue_string%3B%20separator%3D%22%2C%20%22%29%20as%20%3Fconfidences%29%20WHERE%20%7B%0A%20%20VALUES%20%3Fsection%20%7B%20wd%3AQ49%20%7D%0A%20%20%3Fsection%20p%3AP3%20%3FfactStatement%20.%0A%20%20BIND%20%28%3Fsection%20AS%20%3Ffact%29%0A%20%20%3FfactStatement%20ps%3AP3%20%3FfactLabel%20.%0A%20%20%3FfactStatement%20pq%3AP5%20%3Fconfidence%20.%0A%20%20%3Fconfidence%20rdfs%3Alabel%20%3Fvalue_string%20.%20%0A%20%20FILTER%20%28LANG%28%3Fvalue_string%29%20%3D%20%27en%27%29%0A%7D%20GROUP%20BY%20%3Ffact%20%3FfactLabel%0A))
 
 ```sparql
 PREFIX wdt: <https://kg-ipclimatec-reports.wikibase.cloud/prop/direct/>
@@ -83,22 +83,22 @@ PREFIX wd:  <https://kg-ipclimatec-reports.wikibase.cloud/entity/>
 PREFIX p:   <https://kg-ipclimatec-reports.wikibase.cloud/prop/>
 PREFIX pq:  <https://kg-ipclimatec-reports.wikibase.cloud/prop/qualifier/>
 PREFIX ps:  <https://kg-ipclimatec-reports.wikibase.cloud/prop/statement/>
-SELECT DISTINCT ?statement ?statementLabel (GROUP_CONCAT(?value_string; separator=", ") as ?confidences) WHERE {
+SELECT DISTINCT ?fact ?factLabel (GROUP_CONCAT(?value_string; separator=", ") as ?confidences) WHERE {
   VALUES ?section { wd:Q49 }
-  ?section p:P3 ?statementStatement .
-  BIND (?section AS ?statement)
-  ?statementStatement ps:P3 ?statementLabel .
-  ?statementStatement pq:P5 ?confidence .
+  ?section p:P3 ?factStatement .
+  BIND (?section AS ?fact)
+  ?factStatement ps:P3 ?factLabel .
+  ?factStatement pq:P5 ?confidence .
   ?confidence rdfs:label ?value_string . 
   FILTER (LANG(?value_string) = 'en')
-} GROUP BY ?statement ?statementLabel
+} GROUP BY ?fact ?factLabel
 ```
 
 Which gives for this paragraph:
 
 <table>
   <tr>
-    <td><b>statement</b></td>
+    <td><b>fact</b></td>
     <td><b>confidences</b></td>
   </tr>
   <tr>
