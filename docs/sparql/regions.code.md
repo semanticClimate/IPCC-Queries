@@ -27,24 +27,24 @@ SELECT ?specialScope ?specialScopeLabel (COUNT(DISTINCT ?statement) AS ?count) W
     <td><b>count</b></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q48">Arctic</a></td>
-    <td>2</td>
-  </tr>
-  <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q44">Africa</a></td>
-    <td>1</td>
+    <td>3</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q45">Asia</a></td>
-    <td>1</td>
+    <td>3</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q46">Central America</a></td>
-    <td>1</td>
+    <td>3</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q47">South America</a></td>
-    <td>1</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q48">Arctic</a></td>
+    <td>3</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q298">Greenland ice sheet</a></td>
@@ -52,6 +52,10 @@ SELECT ?specialScope ?specialScopeLabel (COUNT(DISTINCT ?statement) AS ?count) W
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q299">West Antarctic Ice Sheet</a></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q301">Europe</a></td>
     <td>1</td>
   </tr>
 </table>

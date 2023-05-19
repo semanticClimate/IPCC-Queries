@@ -35,24 +35,24 @@ With gives:
     <td><b>count</b></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q48">Arctic</a></td>
-    <td>2</td>
-  </tr>
-  <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q44">Africa</a></td>
-    <td>1</td>
+    <td>3</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q45">Asia</a></td>
-    <td>1</td>
+    <td>3</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q46">Central America</a></td>
-    <td>1</td>
+    <td>3</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q47">South America</a></td>
-    <td>1</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q48">Arctic</a></td>
+    <td>3</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q298">Greenland ice sheet</a></td>
@@ -60,6 +60,10 @@ With gives:
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q299">West Antarctic Ice Sheet</a></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q301">Europe</a></td>
     <td>1</td>
   </tr>
 </table>
@@ -120,7 +124,127 @@ For now, this is what the results look like as table:
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
     <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
     <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(87.331111111 43.681111111)</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
@@ -150,7 +274,97 @@ For now, this is what the results look like as table:
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
     <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(0.0 89.9997)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(0.0 89.9997)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(0.0 89.9997)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(0.0 89.9997)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(0.0 89.9997)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
     <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q31">2.1.2.c</a></td>
+    <td>Impacts on some ecosystems are approaching irreversibility such as the impacts of hydrological changes resulting from the retreat of glaciers, or the changes in some [..] Arctic ecosystems driven by permafrost thaw.</td>
+    <td>Point(0.0 89.9997)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q31">2.1.2.c</a></td>
+    <td>Impacts on some ecosystems are approaching irreversibility such as the impacts of hydrological changes resulting from the retreat of glaciers, or the changes in some [..] Arctic ecosystems driven by permafrost thaw.</td>
+    <td>Point(0.0 89.9997)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q31">2.1.2.c</a></td>
+    <td>Impacts on some ecosystems are approaching irreversibility such as the impacts of hydrological changes resulting from the retreat of glaciers, or the changes in some [..] Arctic ecosystems driven by permafrost thaw.</td>
+    <td>Point(0.0 89.9997)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q31">2.1.2.c</a></td>
+    <td>Impacts on some ecosystems are approaching irreversibility such as the impacts of hydrological changes resulting from the retreat of glaciers, or the changes in some [..] Arctic ecosystems driven by permafrost thaw.</td>
+    <td>Point(0.0 89.9997)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q31">2.1.2.c</a></td>
+    <td>Impacts on some ecosystems are approaching irreversibility such as the impacts of hydrological changes resulting from the retreat of glaciers, or the changes in some [..] Arctic ecosystems driven by permafrost thaw.</td>
+    <td>Point(0.0 89.9997)</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q31">2.1.2.c</a></td>
@@ -181,6 +395,601 @@ For now, this is what the results look like as table:
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q164">3.1.3.b</a></td>
     <td>At sustained warming levels between 2°C and 3°C, the Greenland and West Antarctic ice sheets will be lost almost completely and irreversibly over multiple millennia.</td>
     <td>Point(-120.0 -80.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(9.14062 48.690959)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(9.14062 48.690959)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
+    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(7.1881 21.09375)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(-59.0 -21.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(87.331111111 43.681111111)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(0.0 89.9997)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(0.0 89.9997)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(0.0 89.9997)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(0.0 89.9997)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(0.0 89.9997)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(0.0 89.9997)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(0.0 89.9997)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(0.0 89.9997)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(0.0 89.9997)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(-86.0 12.0)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(-86.0 12.0)</td>
   </tr>
 </table>
 
@@ -263,23 +1072,23 @@ This gives:
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q69">methane</a></td>
-    <td>4</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q282">greenhouse gas</a></td>
+    <td>5</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q70">CO₂</a></td>
     <td>4</td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q282">greenhouse gas</a></td>
-    <td>4</td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q283">ozone</a></td>
+    <td>2</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q289">nitrous oxide</a></td>
     <td>2</td>
-  </tr>
-  <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q283">ozone</a></td>
-    <td>1</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q292">fluorinated gas</a></td>

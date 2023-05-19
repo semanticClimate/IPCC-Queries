@@ -24,18 +24,18 @@ SELECT ?confidence ?confidenceLabel (COUNT(DISTINCT ?statement) AS ?count) WHERE
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q2">high confidence</a></td>
-    <td>22</td>
+    <td>36</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q16">medium confidence</a></td>
-    <td>6</td>
+    <td>8</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q15">very high confidence</a></td>
-    <td>6</td>
+    <td>8</td>
   </tr>
   <tr>
-    <td><a href="1e62c38309e51845ca78fdaaa489e427">t1540</a></td>
+    <td><a href="b1c8eaaa980e67882a4802d1724c65b0">t1540</a></td>
     <td>1</td>
   </tr>
   <tr>
