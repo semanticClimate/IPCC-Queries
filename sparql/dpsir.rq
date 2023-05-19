@@ -3,8 +3,8 @@ PREFIX wd:  <https://kg-ipclimatec-reports.wikibase.cloud/entity/>
 PREFIX p:   <https://kg-ipclimatec-reports.wikibase.cloud/prop/>
 PREFIX pq:  <https://kg-ipclimatec-reports.wikibase.cloud/prop/qualifier/>
 
-SELECT DISTINCT ?fact ?driver ?driverLabel ?pressure ?pressureLabel ?state ?stateLabel ?impact ?impactLabel ?response ?responseLabel WITH {
-  SELECT DISTINCT ?fact ?driver ?pressure ?state ?impact ?response WHERE {
+SELECT DISTINCT ?driver ?driverLabel ?pressure ?pressureLabel ?state ?stateLabel ?impact ?impactLabel ?response ?responseLabel WITH {
+  SELECT DISTINCT ?driver ?pressure ?state ?impact ?response WHERE {
     ?fact ^p:P3 / wdt:P1 wd:Q18 .
     OPTIONAL { ?fact pq:P18 ?driver ; pq:P19 ?pressure }
     OPTIONAL { ?fact pq:P19 ?pressure ; pq:P20 ?state }
