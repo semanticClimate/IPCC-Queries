@@ -28,7 +28,7 @@ This should show something like this (pending a solution for a `'X-Frame-Options
 
 For now, this is what the results look like as table:
 
-<out>statementOnMap</out>
+<out limit="10">statementOnMap</out>
 
 ## Ecosystems
 
