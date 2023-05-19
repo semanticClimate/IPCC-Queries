@@ -8,7 +8,7 @@ PREFIX psv: <https://kg-ipclimatec-reports.wikibase.cloud/prop/statement/value/>
 
 PREFIX rwdt: <http://www.wikidata.org/prop/direct/>
 
-SELECT ?paragraph ?paragraphLabel ?confidenceLabel ?text ?coordinates WHERE {
+SELECT DISTINCT ?paragraph ?paragraphLabel ?confidenceLabel ?text ?coordinates WHERE {
   ?paragraph p:P3 ?statement .
   ?statement pq:P9 ?spatialScope ;
              ps:P3 ?text .
