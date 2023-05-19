@@ -26,6 +26,10 @@ SELECT DISTINCT ?section ?sectionLabel (COUNT(?statement) AS ?count) WHERE {
     <td>11</td>
   </tr>
   <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q114">2.1.2.l</a></td>
+    <td>10</td>
+  </tr>
+  <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q164">3.1.3.b</a></td>
     <td>9</td>
   </tr>
@@ -36,6 +40,14 @@ SELECT DISTINCT ?section ?sectionLabel (COUNT(?statement) AS ?count) WHERE {
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q231">4.9.c</a></td>
     <td>6</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q104">2.1.1.h</a></td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q154">3.1.1.h</a></td>
+    <td>5</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q101">2.1.1.b</a></td>
@@ -50,12 +62,24 @@ SELECT DISTINCT ?section ?sectionLabel (COUNT(?statement) AS ?count) WHERE {
     <td>4</td>
   </tr>
   <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q106">2.1.2.a</a></td>
+    <td>3</td>
+  </tr>
+  <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q66">2.1.1.a</a></td>
     <td>2</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q232">4.9.d</a></td>
     <td>2</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q103">2.1.1.g</a></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q105">2.1.1.i</a></td>
+    <td>1</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>

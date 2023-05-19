@@ -26,7 +26,7 @@ SELECT ?driver ?driverLabel (COUNT(DISTINCT ?statement) AS ?count) WHERE {
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q291">human activities</a></td>
-    <td>2</td>
+    <td>6</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q279">volcanic</a></td>

@@ -36,34 +36,58 @@ With gives:
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q44">Africa</a></td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q45">Asia</a></td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q46">Central America</a></td>
-    <td>3</td>
+    <td>5</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q47">South America</a></td>
-    <td>3</td>
+    <td>5</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q48">Arctic</a></td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q45">Asia</a></td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q46">Central America</a></td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q301">Europe</a></td>
     <td>3</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q298">Greenland ice sheet</a></td>
-    <td>1</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q312">Australasia</a></td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q51">North America</a></td>
+    <td>2</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q299">West Antarctic Ice Sheet</a></td>
     <td>1</td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q301">Europe</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q306">Arctic sea</a></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q307">Northern Hemisphere</a></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q308">South Asia</a></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q311">East Africa</a></td>
     <td>1</td>
   </tr>
 </table>
@@ -117,9 +141,14 @@ For now, this is what the results look like as table:
     <td><b>coordinates</b></td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
-    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
-    <td>Point(9.14062 48.690959)</td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q114">2.1.2.l</a></td>
+    <td>LDCs and SIDS who have much lower per capita emissions (1.7 tCO2-eq, 4.6 tCO2-eq, respectively) than the global average (6.9 tCO2-eq) excluding CO2-LULUCF, also have high vulnerability to climatic hazards, with global hotspots of high human vulnerability observed in West-, Central- and East Africa, South Asia, Central and South America, SIDS and the Arctic.</td>
+    <td>Point(72.2 26.9)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q114">2.1.2.l</a></td>
+    <td>LDCs and SIDS who have much lower per capita emissions (1.7 tCO2-eq, 4.6 tCO2-eq, respectively) than the global average (6.9 tCO2-eq) excluding CO2-LULUCF, also have high vulnerability to climatic hazards, with global hotspots of high human vulnerability observed in West-, Central- and East Africa, South Asia, Central and South America, SIDS and the Arctic.</td>
+    <td>Point(36.84726 -1.300444)</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q164">3.1.3.b</a></td>
@@ -127,19 +156,9 @@ For now, this is what the results look like as table:
     <td>Point(-120.0 -80.0)</td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
-    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
-    <td>Point(-59.0 -21.0)</td>
-  </tr>
-  <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
-    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
-    <td>Point(-59.0 -21.0)</td>
-  </tr>
-  <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
-    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
-    <td>Point(7.1881 21.09375)</td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q154">3.1.1.h</a></td>
+    <td>At 2°C or above, these changes expand to more regions and/or become more significant (high confidence), and more frequent and/or severe agricultural and ecological droughts are projected in Europe, Africa, Australasia and North, Central and South America.</td>
+    <td>Point(-86.0 12.0)</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
@@ -147,14 +166,19 @@ For now, this is what the results look like as table:
     <td>Point(0.0 89.9997)</td>
   </tr>
   <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
-    <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
-    <td>Point(7.1881 21.09375)</td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q241">4.1.f</a></td>
+    <td>Without rapid, deep and sustained mitigation and accelerated adaptation actions, losses and damages will continue to increase, including projected adverse impacts in Africa, LDCs, SIDS, Central and South America90, Asia and the Arctic, and will disproportionately affect the most vulnerable populations.</td>
+    <td>Point(0.0 89.9997)</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q49">2.1.2.d</a></td>
+    <td>Increasing weather and climate extreme events have exposed millions of people to acute food insecurity and reduced water security, with the largest impacts observed in many locations and/or communities in Africa, Asia, Central and South America, LDCs, Small Islands and the Arctic, and for small-scale food producers, low-income households and Indigenous Peoples globally (high confidence).</td>
+    <td>Point(-86.0 12.0)</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q140">2.3.2.b</a></td>
     <td>Individuals and households in low lying coastal areas in Australasia and Small Islands and smallholder farmers in Central and South America, Africa, Europe and Asia have reached soft limits (medium confidence), resulting from financial, governance, institutional and policy constraints and can be overcome by addressing these constraints (high confidence).</td>
-    <td>Point(7.1881 21.09375)</td>
+    <td>Point(-86.0 12.0)</td>
   </tr>
   <tr><td colspan="2">This table is truncated. See the full table at <a href="sparql/statementOnMap.code.html">sparql/statementOnMap.rq</a></td></tr>
 </table>
@@ -240,15 +264,15 @@ This gives:
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q282">greenhouse gas</a></td>
-    <td>5</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q70">CO₂</a></td>
+    <td>6</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q69">methane</a></td>
     <td>5</td>
-  </tr>
-  <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q70">CO₂</a></td>
-    <td>4</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q304">aerosol</a></td>

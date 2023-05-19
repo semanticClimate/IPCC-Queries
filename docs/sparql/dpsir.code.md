@@ -63,6 +63,27 @@ SELECT DISTINCT ?driver ?driverLabel ?pressure ?pressureLabel ?state ?stateLabel
     <td></td>
   </tr>
   <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q277">human driver</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q290">greenhouse gas emission</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q291">human activities</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q290">greenhouse gas emission</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q291">human activities</a></td>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q296">CO₂ emission</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q291">human activities</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q281">aerosol emissions</a></td>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q294">global surface temperature</a></td>

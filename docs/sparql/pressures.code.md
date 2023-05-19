@@ -26,15 +26,15 @@ SELECT ?pressure ?pressureLabel (COUNT(DISTINCT ?statement) AS ?count) WHERE {
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q290">greenhouse gas emission</a></td>
-    <td>3</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q296">CO₂ emission</a></td>
+    <td>4</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q281">aerosol emissions</a></td>
     <td>2</td>
-  </tr>
-  <tr>
-    <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q296">CO₂ emission</a></td>
-    <td>1</td>
   </tr>
   <tr>
     <td><a href="https://kg-ipclimatec-reports.wikibase.cloud/entity/Q297">methane emission</a></td>
