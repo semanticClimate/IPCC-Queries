@@ -13,7 +13,7 @@ Which gives:
 
 <out limit="5">allSections</out>
 
-Instead, we can also focus on paragraphs (also typed as section):
+Likewise, we can focus on paragraphs (also typed as sections) and list them along with the number of IPCC statements they contain:
 
 <sparql>sectionsWithStatements</sparql>
 
@@ -23,7 +23,7 @@ Which gives:
 
 ## Paragraphs
 
-For each section we can list the paragraphs and their <topic>confidence levels</topic>,
+For each section, we can list the paragraphs and their <topic>confidence levels</topic>,
 for example for paragraph <i>paragraph 2.1.2.d</i> ([Q49](https://kg-ipclimatec-reports.wikibase.cloud/wiki/Item:Q49)):
 
 <sparql>statementsWithConfidence</sparql>
