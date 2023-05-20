@@ -10,13 +10,13 @@ and the number of facts about that region:
 
 <sparql>regions</sparql>
 
-With gives:
+Which gives:
 
 <out>regions</out>
 
 ### Putting facts on the map
 
-With the following SPARQL query we can show facts on the world map,
+With the following SPARQL query, we can show IPCC statements on the world map,
 taking advantage of Wikidata [<cite>Q27042516</cite>] to provide geographical coordinates for regions,
 using a <topic>federated SPARQL query</topic>:
 
@@ -26,7 +26,7 @@ This should show something like this (pending a solution for a `'X-Frame-Options
 
 <iframe>statementOnMap</iframe>
 
-For now, this is what the results look like as table:
+For now, this is what the results look like as a table:
 
 <out limit="10">statementOnMap</out>
 
@@ -42,7 +42,7 @@ Which gives:
 
 ## Chemicals
 
-The report also mentions <topic>chemicals</topic> in multiple facts. We have these:
+The report also mentions <topic>chemicals</topic> in multiple statements. We have these:
 
 <sparql>chemicals</sparql>
 
