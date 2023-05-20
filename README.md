@@ -1,10 +1,8 @@
-# IPCC-Queries
-
 # Queries around the IPPC
 
 This ebook has the purpose to summarize the semantic knowledge aggregated
 in a custom Wikibase. If you want to contribute,
-checkout the [CONTRIBUTING.md](CONTRIBUTING.md). 
+check out the [CONTRIBUTING.md](CONTRIBUTING.md). 
 
 This repository is based on that of the [Wikidata Queries around the SARS-CoV-2 virus and pandemic](https://egonw.github.io/SARS-CoV-2-Queries/).
 
